@@ -1,0 +1,2021 @@
+summary
+Critical ALERT:  A Baseline Services_Windows component  on XA6506 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on XA6530 is in a current state of: Down
+ALERT: DISK SPACE on XA6501-C:\ Label: 88E6AF70 has currently 9 % is available
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Warning Alert: Memory Utilization on GBVCLSQ2-PRESS is : 95 %
+Warning Alert: Memory Utilization on GBVVSSQ8 is : 95 %
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Critical Alert: Memory Utilization on XALIC01 is : 99 %
+Alert: CPU Utilization on AUS-BI02 is Warning	
+Alert: CPU Utilization on GBVVSDS0 is Warning	
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Alert: CPU Utilization on GBVVSWW7 is Critical	
+Warning Alert: Memory Utilization on gbdvssq0 is : 97 %
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB08 is in a current state of: Critical
+Alert: Memory Utilization on tcmprd-haasr02.tcmis.com is warning
+Warning Alert: Memory Utilization on CAV-SQLDW04 is : 94 %
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+Alert: CPU Utilization on tcmdev-ora01 is Critical
+Alert: CPU Utilization in GJDEWEB08 is Critical	
+ALERT: DISK SPACE on XA6506-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+Warning Alert: Memory Utilization on GBVVSFS3 is : 94 %
+Warning Alert: Memory Utilization on GBVVSMS4 is : 95 %
+Alert: CPU Utilization on GJDEWEB08 is Critical
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+Alert: Memory Utilization on XNETWEB03 is in Warning
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 94 %
+ALERT: DISK SPACE on XA6508-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on TXAUS-DC01 is Critical	
+ALERT: DISK SPACE on XA6509-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6514-C:\ Label: 88E6AF70 has currently 19 % is available
+ALERT: DISK SPACE on XA6529-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6505-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization in GJDEWEB01 is Warning	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+ALERT: DISK SPACE on XA6523-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: US-THR-891-AAX-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6525-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on GBVVSDV1-E:\ Label:DATA 301C627F has currently 13 % is available
+TIER 3 - Critical Device Down: US-SLC-891-NOC-R01.wescoaircraft.com is Down
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - NG: Salt Lake City - AMER - 2211 West North Temple, Salt Lake City, UT 84116, USA"
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 94 %
+ALERT:  A ADC _sabrix _URL _monitoring component  on ws1.tcmis.com is Down
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Alert: CPU Utilization in GJDEWEB04 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on VALJDELOG03 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on CAMI-RODC01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on DC03PAPRC01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on CAV-CMDR01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on G-TRAXPRODWEB3 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on ALFO-RODC01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-ORIONHA01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on G-SCCM01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-AP-FB01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-FBRDP01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on txfw-dc03 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-SQL19-N2 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GJDEOHS02 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on VALSIGVM02 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-DRSC is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-FB01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUSTX-Datamatic is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on SHARESCANSERVER is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on ITMAFILE is in a current state of: Down
+Warning Alert: Memory Utilization on VALDC01 is : 94 %
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB07 is in a current state of: Critical
+Alert: CPU Utilization on GJDEWEB04 is Critical
+Alert: CPU Utilization in GJDEWEB07 is Critical	
+Alert: CPU Utilization on tcmqa03-ws01.tcmis.com is Critical
+Alert: Memory Utilization on tcmprd-ws07.tcmis.com is warning
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+Alert: CPU Utilization on GJDEWEB07 is Critical
+ NODE ALERT: VALJDELOG01 has rebooted
+TIER 3 - Critical Device Down: CN-HAN-C1111-R01.wescoaircraft.com is Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws07.tcmis.com is Down
+ NODE ALERT: DEVJDEJAS2 has rebooted
+ NODE ALERT: AUSOFF-FILE01 is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws07.tcmis.com is Down
+ NODE ALERT: yokneam-wds is Down
+ NODE ALERT: YOKNEAM-DC01 is Down
+ NODE ALERT: YOKNEAM-FILE01 is Down
+ESX ALERT: yokneam-esx01.haasgroupintl.com is Down
+Warning Alert: Memory Utilization on SGSVSFS1 is : 97 %
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+Warning ALERT:  SQL Components component  on gbdvssq0 shows Warning
+ NODE ALERT: INBA-DC1 is Down
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+Alert: CPU Utilization on tcmdev-ora01 is Warning
+ALERT: DISK SPACE on AUS-VEEAM-CON01-C:\ Label: DAE3F737 has currently 14 % is available
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB01 is in a current state of: Critical
+Warning Alert: Memory Utilization on ECOMDEVWEBVS01 is : 94 %
+ NODE ALERT: GJDEWEB04 has rebooted
+Alert: CPU Utilization in GJDEWEB01 is Critical	
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB04 is in a current state of: Down
+ NODE ALERT: GJDEWEB07 has rebooted
+"Group Alert: Network Team Tickets: WAP - West Chester - AMER - 1475 Phoenixvil?le Pike Suite 100, West Chester, PA 19380, USA Down"
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB07 is in a current state of: Down
+TIER 3 - Critical Device Down: US-GOL-891-RAY-R01.wescoaircraft.com is Down
+ NODE ALERT: GJDEWEB08 has rebooted
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+Alert: Memory Utilization on tcmprd-haasr05.tcmis.com is warning
+NODE Down ALERT: XA6501 is Down
+NODE Down ALERT: XA6540 is Down
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on GJDEWEB01 is Critical
+ NODE ALERT: GJDEWEB01 has rebooted
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GJDEWEB01 is in a current state of: Down
+ALERT: DISK SPACE on XA6517-C:\ Label: 88E6AF70 has currently 19 % is available
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+ALERT: DISK SPACE on XA6521-C:\ Label: 88E6AF70 has currently 17 % is available
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVVSMS4 is : 95 %
+Alert: Memory Utilization on infdemo-ora01 is in Critical
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Alert: Memory Utilization on tcmprd-ws05.tcmis.com is warning
+ALERT: DISK SPACE on TXAU-SQL1902-G:\ Label:Backups 941DA743 has currently 14 % is available
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Warning	
+Warning Alert: Memory Utilization on GBVVSHR0 is : 94 %
+Alert: Memory Utilization on tcmprd-haasr02.tcmis.com is warning
+Warning Alert: Memory Utilization on GBDVSMS0 is : 96 %
+ NODE ALERT: GBVVSFS3 is Down
+Alert: Memory Utilization on infdemo-ora01 is in Critical
+Alert: CPU Utilization on usauitadmust01 is Critical	
+Alert: Memory Utilization on GJDEWEB01 is in warning
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Alert: Memory Utilization on tcmprd-haasr05.tcmis.com is warning
+Alert: Memory Utilization on tcmdev-ws01.tcmis.com is warning
+ALERT: DISK SPACE on XA6530-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-BI02 is Warning	
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-ADMT01 is Critical	
+Alert: Memory Utilization on tcmprd-haasr06.tcmis.com is warning
+ALERT: Disk utilization on tcmtm-ws01.haasgroupintl.com is Warning
+ALERT: DISK SPACE on XA6526-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6511-C:\ Label: 88E6AF70 has currently 19 % is available
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws05.tcmis.com is Down
+Alert: Memory Utilization on apexprd-wlogic01.haasgroupintl.com is warning
+Alert: CPU Utilization on ADAVIIS01 is Critical	
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB05 is in a current state of: Critical
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+Alert: CPU Utilization in GJDEWEB05 is Critical	
+Warning ALERT:  SQL Components component  on GBDVSMS0 shows Warning
+Warning Alert: Memory Utilization on VALDC01 is : 94 %
+Alert: CPU Utilization on GJDEWEB05 is Critical
+ALERT: Disk utilization on tcmtm03-ws01.haasgroupintl.com is Warning
+TIER 1 - CRITICAL ALERT: MX-CHI2-4351-R01.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: WAN Interface Unreachable on MX-CHI2-4351-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN Interface Unreachable on MX-CHI2-4351-R01.wescoaircraft.com
+ESX ALERT: MXCH-ESX02.wescohq.com is Down
+ESX ALERT: MXCH-ESX01.wescohq.com is Down
+ NODE ALERT: CHIHUAHUA-DC01 is Down
+ NODE ALERT: MXCH-FILE01 is Down
+ NODE ALERT: MXCVSDC0 is Down
+ NODE ALERT: MXCH-DC01 is Down
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 12 on MX-CHI2-4351-R02.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 12 on MX-CHI2-4351-R02.wescoaircraft.com
+Alert: CPU Utilization in GJDEWEB03 is Warning	
+Warning Alert: Memory Utilization on VALDC01 is : 96 %
+Alert: CPU Utilization on GBVVSML0 is Critical	
+TIER 1 - CRITICAL ALERT: MX-CHI2-9300-MDF-S01.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 12 on MX-CHI2-4351-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 12 on MX-CHI2-4351-R01.wescoaircraft.com
+Alert: CPU Utilization on usauitadmust01 is Critical	
+Alert: CPU Utilization in GJDEWEB08 is Critical	
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 96 %
+TIER 1 - CRITICAL ALERT: MX-CHI2-2960X-MDF-S01.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: MX-CHI2-2960X-MDF-S02.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+Alert: CPU Utilization in GJDEWEB03 is Critical	
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB03 is in a current state of: Critical
+Alert: CPU Utilization on GJDEWEB03 is Critical
+Critical ALERT:  A Distributed File System (DFS) component  on LON-DFS01 is in a current state of: Down
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Alert: Memory Utilization on apexprd-ora01.haasgroupintl.com is warning
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 94 %
+ALERT: DISK SPACE on AUS-VEEAM-CON01-C:\ Label: DAE3F737 has currently 15 % is available
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+ NODE ALERT: GJDEWEB03 has rebooted
+ NODE ALERT: GJDEWEB05 has rebooted
+Alert: CPU Utilization on tcmdev-ora01 is Critical
+ NODE ALERT: GJDEWEB08 has rebooted
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB08 is in a current state of: Down
+TIER 3 - Critical Device Down: US-LAR-C1111-R01.wescoaircraft.com is Down
+NODE Down ALERT: XA6501 is Down
+ALERT: DISK SPACE on XALIC01-C:\ Label: DC7DA563 has currently 12 % is available
+TIER 3 - Critical Device Down: US-WIT-891-TRI-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: wsip-174-71-149-66.ks.ks.cox.net is Down
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Critical ALERT:  A Distributed File System (DFS) component  on LON-DFS01 is in a current state of: Down
+Critical ALERT:  A tcmIS Functional Testing-dev1 component  on infdev-ora01b is in a current state of: Down
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+Critical ALERT:  A Distributed File System (DFS) component  on LON-DFS01 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 96 %
+Alert: CPU Utilization on usauitadmust01 is Critical	
+Critical ALERT:  A Distributed File System (DFS) component  on LON-DFS01 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+ALERT: DISK SPACE on TXAU-SQL1902-G:\ Label:Backups 941DA743 has currently 11 % is available
+Critical ALERT:  A Windows Server 2019 Services and Counters component  on TXAU-MLEINPROD1 is in a current state of: Critical
+Alert: CPU Utilization on AUS-BI01 is Critical	
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+Alert: Memory Utilization on tcmpoc-haasr01.tcmis.com is warning
+NODE ALERT: AUS-ORIONHA01 is Down
+Warning Alert: Memory Utilization on GBVVSMS4 is : 95 %
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Warning Alert: Memory Utilization on gbdvssq0 is : 95 %
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+ALERT:  A Microsoft IIS component  on AUS-ORIONHA01 is in a current state of: Down
+Critical Alert: Memory Utilization on AUS-BIPRD-PUB01 is : 98 %
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSMS4 is : 94 %
+ALERT: DISK SPACE on XA6526-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: Memory Utilization on tcmprd-haasr07.tcmis.com is warning
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 96 %
+ALERT:  A Microsoft IIS component  on AUS-ORIONHA01 is in a current state of: Down
+ALERT: DISK SPACE on XA6507-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Alert: CPU Utilization on ITMADC is Critical	
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+TIER 3 - Critical Device Down: CA-QUE-BOM8-C1111-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - BOM: Mirabel (Plant 8) - AMER - Retorno El Marques #4F Parque Industrial El Marques Bombardier Plant 
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+Alert: Memory Utilization on tcmprd-ws07.tcmis.com is warning
+Alert: CPU Utilization on ADAVIIS01 is Critical	
+TIER 2 - Non-Critical Device Down: MX-MEX-891-GUL-R01.wescoaircraft.com is Down
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB03 is in a current state of: Critical
+Alert: CPU Utilization on GBVVSML0 is Critical	
+Alert: CPU Utilization in GJDEWEB03 is Critical	
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier2  - Mexicali - AMER - Gulfstream Boulevard Lazaro Cardenas 2365, Mexicali, Baja California, Mexico"
+Warning Alert: Memory Utilization on AUS-ORIONAPP02 is : 96 %
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Warning ALERT:  SQL Components component  on GBDVSMS0 shows Warning
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Alert: CPU Utilization in GJDEWEB02 is Critical	
+ALERT: DISK SPACE on XA6520-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on GJDEWEB03 is Critical
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 97 %
+Warning Alert: Memory Utilization on GBVVSML0 is : 97 %
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws07.tcmis.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws07.tcmis.com is Down
+ALERT: DISK SPACE on XA6530-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: Memory Utilization on tcmprd-haasr04.tcmis.com is warning
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 94 %
+ NODE ALERT: VALJDELOG01 has rebooted
+Warning Alert: Memory Utilization on AUS-ORIONAPP02 is : 96 %
+Alert: CPU Utilization on GBV-ORIONAPP01 is Warning	
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Warning Alert: Memory Utilization on GBVVSML0 is : 95 %
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+ NODE ALERT: GJDEWEB02 has rebooted
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB02 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on XA6523 is in a current state of: Down
+ NODE ALERT: GJDEWEB03 has rebooted
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB03 is in a current state of: Down
+NODE Down ALERT: XA6501 is Down
+Alert: Memory Utilization on tcmprd-haasr03.tcmis.com is warning
+Critical ALERT:  A Microsoft IIS component  on USAUWCSAPP01 is in a current state of: Down
+ALERT: DISK SPACE on USAVSSQ0-E:\ Label:DATA F2224374 has currently 14 % is available
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+ALERT: DISK SPACE on AUS-VEEAM-CON01-C:\ Label: DAE3F737 has currently 15 % is available
+Warning Alert: Memory Utilization on VALDC01 is : 94 %
+ALERT: DISK SPACE on AUS-JUMPBOX01-C:\ Label: 4608119A has currently 13 % is available
+TIER 1 - CRITICAL ALERT: US-SAV-2921-R01.wescoaircraft.com is Down
+Alert: Memory Utilization on infpoc-oem02.tcmis.com is warning
+ NODE ALERT: GASA-SRVR01 is Down
+ NODE ALERT: Savannah-AIMS is Down
+ESX ALERT: Savannah-ESX01.haasgroupintl.com is Down
+Critical ALERT:  A Baseline Services_Windows component  on KSWI-FILE01 is in a current state of: Down
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Critical	
+Critical ALERT:  A Microsoft IIS component  on KSWI-FILE01 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Alert: CPU Utilization on AUS-BIPRD-PUB01 is Warning	
+Alert Storage -Hardware component is in critical state - integration
+Alert Storage -Hardware component is in critical state - integration
+Alert Storage -Hardware component is in critical state - integration
+Alert Storage -Hardware component is in critical state - integration
+Alert: CPU Utilization on AUS-BI02 is Warning	
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Alert: CPU Utilization on gbwsrsq1 is Critical	
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+Warning Alert: Memory Utilization on GBVVSMS4 is : 94 %
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Alert: Memory Utilization on tcmpoc-haasr02.tcmis.com is warning
+ALERT: DISK SPACE on G-SQL02-D:\ Label:SQL Data D8685B24 has currently 14 % is available
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+Warning Alert: Memory Utilization on AUS-ORIONAPP02 is : 97 %
+ NODE ALERT: DECATUR-DC01 is Down
+ESX ALERT: decatur-esx01.haasgroupintl.com is Down
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 94 %
+Alert: CPU Utilization on gbmi1-dc05 is Critical	
+Alert: CPU Utilization on ADAVIIS01 is Critical	
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 94 %
+Alert: Memory Utilization on tcmprd-ws02.tcmis.com is warning
+Alert: CPU Utilization on GBVVSML0 is Critical	
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+Alert: Memory Utilization on tcmprd-haasr05.tcmis.com is warning
+ALERT: Critical disk utilization in NIMBUS
+ NODE ALERT: VALJDELOG01 has rebooted
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Critical ALERT:  A Baseline Services_Windows component  on G-TRAXDEV01 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+Alert: CPU Utilization on AUS-BIPRD-PUB01 is Warning	
+NODE Down ALERT: XA6501 is Down
+Alert: CPU Utilization on ITMADC is Critical	
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB06 is in a current state of: Critical
+ALERT: DISK SPACE on USAVSSQ0-E:\ Label:DATA F2224374 has currently 14 % is available
+ALERT: DISK SPACE on AUS-VEEAM-CON01-C:\ Label: DAE3F737 has currently 15 % is available
+Warning Alert: Memory Utilization on AUS-BIPRD-PUB01 is : 96 %
+Alert: CPU Utilization in GJDEWEB06 is Critical	
+TIER 3 - Critical Device Down: CA-QUE-BOM3-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-WIT-891-CESPA-R01.wescoaircraft.com is Down
+GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - BOM: Montreal (Plant 3) - AMER - Retorno El Marques #4F Parque Industrial El Marques Bombardier Plant
+Alert: CPU Utilization on GJDEWEB06 is Critical
+Alert: CPU Utilization on UKVSDC2 is Critical	
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Alert: CPU Utilization in GJDEWEB04 is Critical	
+ALERT: DISK SPACE on GBVVSML0-E:\ Label:Applications 7A4E86EF has currently 15 % is available
+Warning Alert: Memory Utilization on GBVCLSQ2-PRESS is : 97 %
+Warning Alert: Memory Utilization on GBVVSSQ8 is : 97 %
+Alert: CPU Utilization on gbwsrsq1 is Warning	
+Alert: CPU Utilization on CAV-SQLDW01 is Warning	
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+Warning Alert: Memory Utilization on VALFILE01V is : 94 %
+TIER 3 - Critical Device Down: US-NAP-C1111-R01.wescoaircraft.com is Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws01.tcmis.com is Down
+ALERT: DISK SPACE on TXAU-SQL19-N1-D:\ Label:Data 242E734E has currently 14 % is available
+ NODE ALERT: CAVA2JDEWEB01 has rebooted
+Critical ALERT:  GROUP ALERT: Group is Down - APPLICATION - Qlik View
+WPM Critical Alert : A Qlikview_Access Point - SIOP_OTD_Dashboard transaction state is Down
+Critical ALERT:  A QVS.exe component  on AUS-BIPRD-N1 is in a current state of: Down
+Critical ALERT:  A QVS.exe component  on AUS-BIPRD-N2 is in a current state of: Down
+WPM Critical Alert : A qlikview transaction state is Down
+WPM Critical Alert : A Qlikview _Access Point - SIOP_Forecast_Viewer transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - sca_buy_reqs.qvw transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - INCORACHEM_ANYDOC_FILEBOUND_VOUCHERED_DASHBOARD.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SALES_4_CORNER_DASHBOARD.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_FORECAST_ACCURACY.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SCA_Procurement transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - sca_customer_alignment.qvw transaction state is Down
+WPM Critical Alert : A Qlikview _Access Point - HAAS ON TIME DELIVERY OOR OTD.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - HARDWARE OPEN ORDERS.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_LOB_ALL.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_Delivery_Assurance_Dashboard transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SCA_Supplier_Scorecard transaction state is Down
+Alert: CPU Utilization on AUS-BI01 is Critical	
+TIER 3 - Critical Device Down: MX-MEX-891-TRI-R01.wescoaircraft.com is Down
+ALERT: Critical disk utilization in TXAU-SQL19-N1
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - TRI: Mexicali - AMER - Calle El Rey del Desierto 66 El Sahuaro, Mexicali 21395, B.C., Mexico"
+TIER 2 - Non-Critical Device Down: US-CSP-891-R01.wescoaircraft.com is Down
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier2  - Colorado Springs - AMER - 1275 North Newport Road, Colorado Springs, Colorado 80913, USA"
+Alert: CPU Utilization in GJDEWEB04 is Warning	
+TIER 2 - Non-Critical Device Down: US-CSP-891-R01.wescoaircraft.com is Down
+Critical ALERT:  A Baseline Services_Windows component  on XA6531 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+ALERT: DISK SPACE on usauitadmust01-C:\ Label: 1CDB9A83 has currently 15 % is available
+Alert: CPU Utilization on GBVVSDV1 is Critical	
+Critical ALERT:  A Commander (label printing server) Monitoring component  on   CAV-CMDR01 is in a current state of: Down
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+TIER 3 - Critical Device Down: CN-HAN-C1111-R01.wescoaircraft.com is Down
+ NODE ALERT: DEVJDEJAS2 has rebooted
+ALERT:  A Baseline _Linux component  on tcmpoc-sdsadm01.haasgroupintl.com is  Down
+Alert: Memory Utilization on infprd-rdeck01.haasgroupintl.com is warning
+Warning Alert: Memory Utilization on usauitadmust01 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on XA6509 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on XA6513 is in a current state of: Down
+ALERT:  A Baseline _Linux component  on tcmdev-sdsadm01.haasgroupintl.com is  Down
+ NODE ALERT: GJDEWEB04 has rebooted
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB04 is in a current state of: Down
+ NODE ALERT: GJDEWEB06 has rebooted
+NODE Down ALERT: XA6501 is Down
+ALERT: Critical disk utilization in NIMBUS
+Alert: Memory Utilization on tcmprd-haasr07.tcmis.com is warning
+ALERT: Critical disk utilization in TXAU-SQL19-N1
+Critical Alert: Memory Utilization on usauitadmust01 is : 98 %
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+Critical Alert: Memory Utilization on SGSVSFS1 is : 98 %
+ALERT: DISK SPACE on XA6519-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: Critical disk utilization in CAV-SQLDW03
+ALERT: DISK SPACE on CAV-SQLDW01-E:\ Label:SQL_DATA 34580907 has currently 15 % is available
+ALERT: Critical disk utilization in usauitadmust01
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Alert: CPU Utilization on usauitadmust01 is Critical	
+TIER 3 - Critical Device Down: IT-FRO-2960S-S01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+ALERT: DISK SPACE on XA6510-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+TIER 3 - Critical Device Down: US-WIT-2960G-BCFT-S01.wescoaircraft.com is Down
+Alert: Memory Utilization on tcmprd-haasr02.tcmis.com is in Critical
+ALERT: DISK SPACE on XA6504-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVVSMS4 is : 95 %
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - BCFT: Wichita - AMER - 370 North Webb Road 100 East Building 20, Wichita, KS 67206, USA"
+Warning Alert: Memory Utilization on AUS-BIPRD-PUB01 is : 97 %
+ALERT: DISK SPACE on XA6503-C:\ Label: 88E6AF70 has currently 19 % is available
+ALERT: DISK SPACE on XA6527-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+ALERT: DISK SPACE on XA6513-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+TIER 2 - Non-Critical Device Down: US-CSP-891-R01.wescoaircraft.com is Down
+Alert: CPU Utilization in GJDEWEB01 is Critical	
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+Alert: CPU Utilization on usauitadmust01 is Critical	
+TIER 3 - Critical Device Down: US-WIT-891-CESPA-R01.wescoaircraft.com is Down
+TIER 2 - Non-Critical Device Down: US-CSP-891-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6517-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 2 - Non-Critical Device Down: US-CSP-891-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-WIT-891-CESPA-R01.wescoaircraft.com is Down
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier2  - Colorado Springs - AMER - 1275 North Newport Road, Colorado Springs, Colorado 80913, USA"
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+ALERT: DISK SPACE on XA6526-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6515-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6512-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 94 %
+ALERT: DISK SPACE on XA6520-C:\ Label: 88E6AF70 has currently 18 % is available
+Warning Alert: Memory Utilization on AUS-ORIONAPP02 is : 97 %
+ALERT: DISK SPACE on XA6505-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6514-C:\ Label: 88E6AF70 has currently 19 % is available
+ALERT: DISK SPACE on XA6506-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws04.tcmis.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws04.tcmis.com is Down
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+ALERT: DISK SPACE on XA6507-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws02.tcmis.com is Down
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws02.tcmis.com is Down
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Warning	
+Critical ALERT:  A Baseline Services_Windows component  on G-TRAXDEV01 is in a current state of: Down
+TIER 3 - Critical Device Down: US-WIT-891-CESPA-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Warning	
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+TIER 3 - Critical Device Down: US-EUC-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-WIT-891-CESPA-R01.wescoaircraft.com is Down
+ NODE ALERT: GJDEWEB01 has rebooted
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB01 is in a current state of: Down
+TIER 3 - Critical Device Down: US-WIT-891-CESPA-R01.wescoaircraft.com is Down
+Critical Alert: Memory Utilization on AUS-ORIONAPP02 is : 98 %
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+NODE Down ALERT: XA6501 is Down
+NODE Down ALERT: XA6504 is Down
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - CESS: Wichita Pawnee - AMER - 5800 East Pawnee Building B-50, Wichita, KS 67218, USA"
+ALERT: DISK SPACE on AUS-VEEAM-CON01-C:\ Label: DAE3F737 has currently 15 % is available
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on GBVVSDV1 is Critical	
+TIER 1 - CRITICAL ALERT: US-JON-4351-R02 is Down
+TIER 1 - CRITICAL ALERT: WAN Interface Unreachable on US-JON-4351-R02
+ALERT: DISK SPACE on USAVSSQ0-E:\ Label:DATA F2224374 has currently 15 % is available
+Warning Alert: Memory Utilization on gbdvssq0 is : 95 %
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 96 %
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+Alert: CPU Utilization on CAMI-RODC01 is Critical	
+TIER 2 - Non-Critical Device Down: GR-BER-C1116-R01.wescoaircraft.com is Down
+ NODE ALERT: DMZC0HV2 is Down
+TIER 2 - Non-Critical Device Down: GR-BER-3810-Core01 is Down
+Network Device Hardware Alert : Fan Sensor on UK-SPO-2626-S01 is Critical
+TIER 1 - CRITICAL ALERT: UK-SPO-2626-S05 is Down
+Alert: CPU Utilization on tcmdev-ora01 is Critical
+Alert: Memory Utilization on GJDEWEB01 is in warning
+Network Device Hardware Alert : Fan Sensor on UK-SPO-2626-S01 is Critical
+Critical ALERT:  SQL Components component  on GBVVSSQ10 shows Down
+Critical ALERT:  SQL Components component  on GBVVSSQ10 shows Down
+Critical ALERT:  SQL Components component  on GBVVSSQ10 shows Down
+Critical ALERT:  SQL Components component  on GBVVSSQ10 shows Down
+ALERT: DISK SPACE on AUS-ITWIKI01-C:\ Label: 4608119A has currently 15 % is available
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+"Critical Alert :  The SQL service ""SQL Server"" on GBVVSSQ10 is in Down"
+"Critical Alert :  The SQL service ""SQL Server Agent"" on GBVVSSQ10 is in Down"
+Critical ALERT:  A Microsoft IIS component  on USAUWCSAPP01 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSMS4 is : 96 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+ALERT: DISK SPACE on XA6521-C:\ Label: 88E6AF70 has currently 20 % is available
+"Critical Alert :  The SQL service ""SQL Server"" on GBVVSSQ10 is in Down"
+"Critical Alert :  The SQL service ""SQL Server Agent"" on GBVVSSQ10 is in Down"
+Alert: CPU Utilization on tcmdemo-ws02.tcmis.com is Critical
+Alert: CPU Utilization on tcmtm02-ws01.haasgroupintl.com is Critical
+Alert: CPU Utilization on tcmqa03-ws01.tcmis.com is Critical
+Alert: CPU Utilization on tcmtm-ws01.haasgroupintl.com is Critical
+Alert: CPU Utilization on tcmdemo03-sso02.haasgroupintl.com is Critical
+Alert: CPU Utilization on TXAU-MAIL01 is Critical	
+Alert: CPU Utilization on tcmdev-sso01.haasgroupintl.com is Critical
+Alert: CPU Utilization on tcmprd-sso07.haasgroupintl.com is Critical
+Alert: CPU Utilization on tcmprd-sso03.haasgroupintl.com is Critical
+Alert: CPU Utilization on tcmprd-sso06.haasgroupintl.com is Critical
+Alert: CPU Utilization on tcmprd-sso04.haasgroupintl.com is Critical
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+Alert: CPU Utilization on tcmdemo02-ws02.tcmis.com is Critical
+Alert: CPU Utilization on tcmprd-ws04.tcmis.com is Warning
+Alert: CPU Utilization on tcmprd-ws02.tcmis.com is Warning
+Alert: CPU Utilization on AUS-BI02 is Warning	
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Alert: CPU Utilization on tcmprd-ws05.tcmis.com is Critical
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on AMER-AIMS17DEV is Critical	
+ALERT: DISK SPACE on XA6507-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on VALFILE01V is : 95 %
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Warning Alert: Memory Utilization on APPSERVER01 is : 94 %
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+Alert: CPU Utilization on AUS-BIPRD-PUB01 is Warning	
+ALERT: DISK SPACE on XA6519-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: US-GRE-891-LMC-R01.wescoaircraft.com is Down
+ALERT: Critical disk utilization in GBVVSCL3
+TIER 3 - Critical Device Down: US-IND-891-CES-R01.wescoaircraft.com is Down
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB08 is in a current state of: Critical
+TIER 3 - Critical Device Down: US-IND-891-CES-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-IND-891-CES-R01.wescoaircraft.com is Down
+Alert: CPU Utilization in GJDEWEB08 is Critical	
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - CESS: Independen?ce - AMER - 1 Cessna Boulevard, Independen?ce, KS 67301, USA"
+Alert: CPU Utilization in GJDEWEB07 is Critical	
+Alert: CPU Utilization on GJDEWEB08 is Critical
+ALERT: DISK SPACE on XA6505-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization in GJDEWEB03 is Critical	
+Alert: CPU Utilization on AUS-ITWIKI01 is Critical	
+Alert: CPU Utilization on TXAUS-DC01 is Critical	
+ALERT: DISK SPACE on XA6518-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+ALERT: DISK SPACE on XA6512-C:\ Label: 88E6AF70 has currently 19 % is available
+Alert: CPU Utilization on GBVVSEX2 is Warning	
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Alert: CPU Utilization on ADAVIIS01 is Critical	
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+ALERT: DISK SPACE on XA6528-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: Memory Utilization on DEVJDEJAS2 is in warning
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+ NODE ALERT: CAV-ACL01 is Down
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 94 %
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws07.tcmis.com is Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws07.tcmis.com is Down
+ALERT:  A ADC _sabrix _URL _monitoring component  on ws1.tcmis.com is Down
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+Critical Alert: Memory Utilization on AUS-BIPRD-PUB02 is : 99 %
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on UKDC1 is : 94 %
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+ NODE ALERT: DEVJDEJAS2 has rebooted
+ALERT: Disk utilization on tcmtm03-ws01.haasgroupintl.com is Warning
+ALERT: DISK SPACE on G-OPTIODEV-C:\ Label: F07204A9 has currently 15 % is available
+Alert: CPU Utilization on tcmprd-ws01.tcmis.com is Critical
+DHCP Alerts: Service Impacted on  192.168.11.138 Location *DATA CENTER: AUSTIN
+Critical ALERT:  A Windows DHCP Server - Full/Almost_Full component  on AUS-DHCP01 is in a current state of: Down
+Alert: CPU Utilization on secprd-tenable03.haasgroupintl.com is Critical
+Alert: CPU Utilization on secprd-tenable02.haasgroupintl.com is Critical
+Alert: CPU Utilization on TXAU-SQL17-N2 is Critical	
+Alert: CPU Utilization on secprd-tenable01.haasgroupintl.com is Critical
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+CPU Warning  ALERT: CPU load on AUS-UCS-A is currently 99 %
+CPU ALERT: CPU load on AUS-UCS-A is currently 99 %
+Alert: CPU Utilization on tcmprd03-ws02.haasgroupintl.com is Warning
+Alert: CPU Utilization on TXAU-AD01 is Critical	
+Alert: CPU Utilization on tcmdev-ora01 is Warning
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Critical	
+ NODE ALERT: GJDEWEB03 has rebooted
+TIER 3 - Critical Device Down: UK-CAM-891-R01.wescoaircraft.com is Down
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB03 is in a current state of: Down
+Alert: CPU Utilization on AUS-ITWIKI01 is Critical	
+ALERT: DISK SPACE on AUS-VEEAM-CON01-C:\ Label: DAE3F737 has currently 15 % is available
+Critical ALERT:  A Baseline Services_Windows component  on XA6524 is in a current state of: Down
+ NODE ALERT: GJDEWEB07 has rebooted
+Critical ALERT:  A Baseline Services_Windows component  on XA6544 is in a current state of: Down
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB07 is in a current state of: Down
+ NODE ALERT: GJDEWEB08 has rebooted
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Cambridge-M?arshall - EMEA - The Airport Newmarket Road, Cambridge, Cambridges?hire CB58RX, UK"
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+ALERT: Critical disk utilization in NIMBUS
+ALERT: DISK SPACE on XA6504-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization in XA6516 is in Warning
+Critical Alert: Memory Utilization on XALIC01 is : 99 %
+Alert: Memory Utilization on XALIC01 is critical
+ALERT: Critical disk utilization in CAV-SQLDW03
+Alert: CPU Utilization on GBVVSDV1 is Critical	
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Critical ALERT:  SQL Components component  on GBVVSSQ10 shows Down
+Critical ALERT:  SQL Components component  on GBVVSSQ10 shows Down
+Critical ALERT:  SQL Components component  on GBVVSSQ10 shows Down
+Critical ALERT:  SQL Components component  on GBVVSSQ10 shows Down
+TIER 2 - CRITICAL ALERT: Port-Channel Member down on US-TEM-2960X-MDF-S01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: Interface Down on US-TEM-2960X-MDF-S01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: Interface Down on US-TEM-2960X-MDF-S01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: US-TEM-2960S-IDF-S01.wescoaircraft.com is Down
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+"Critical Alert :  The SQL service ""SQL Server"" on GBVVSSQ10 is in Down"
+"Critical Alert :  The SQL service ""SQL Server Agent"" on GBVVSSQ10 is in Down"
+Alert: Memory Utilization on tcmprd-ws03.tcmis.com is warning
+Warning Alert: Memory Utilization on VALEXCHMS01 is : 94 %
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 9 % is available
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Alert: CPU Utilization on G-OPTIODEV is Critical	
+Alert: CPU Utilization in XA6501 is Critical
+ALERT: DISK SPACE on XA6530-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 95 %
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+Warning ALERT:  SQL Components component  on GBDVSMS0 shows Warning
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+Warning Alert: Memory Utilization on GBVVSMS4 is : 95 %
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+ALERT: DISK SPACE on XA6509-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on APPSERVER01 is : 96 %
+Warning Alert: Memory Utilization on GBVVSCL3 is : 95 %
+Alert: CPU Utilization on CODEPROXY01 is Critical	
+TIER 3 - Critical Device Down: US-IND-891-CES-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Critical	
+Critical ALERT:  A eComm Monitor Urls component  on G-ECOMWEB1 is in a current state of: Down
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - CESS: Independen?ce - AMER - 1 Cessna Boulevard, Independen?ce, KS 67301, USA"
+ NODE ALERT: GBLVSDC02 is Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on AMER-AIMS17DEV is Critical	
+Alert: Memory Utilization on DEVJDEJAS2 is in warning
+TIER 3 - Critical Device Down: US-IND-891-CES-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on TXAU-MLEINDEV3 is Critical	
+TIER 1 - CRITICAL ALERT: IL-AKK-2960X-IDF-S01.wescoaircraft.com is Down
+Alert: CPU Utilization on GBVVSEX2 is Critical	
+ALERT: DISK SPACE on XA6512-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6515-C:\ Label: 88E6AF70 has currently 18 % is available
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - CESS: Independen?ce - AMER - 1 Cessna Boulevard, Independen?ce, KS 67301, USA"
+ALERT: DISK SPACE on XA6522-C:\ Label: 88E6AF70 has currently 20 % is available
+"Network Team Tickets: Tier1  - Akko - EMEA - 20 Moshe Boreshtein Stret South Industrial Zone, Akko 2422242, Israel"
+Alert: CPU Utilization on GBVVSEX0 is Critical	
+Alert: CPU Utilization on tcmprd-haasr05.tcmis.com is Critical
+ALERT: Disk utilization on tcmqa-ws01.tcmis.com is Warning
+Alert: CPU Utilization on AUS-GHS-TS01 is Critical	
+Warning Alert: Memory Utilization on USAVSMS0 is : 96 %
+Critical ALERT:  A Microsoft IIS component  on USAUWCSAPP01 is in a current state of: Down
+Network Device _Memory utilization_Critical
+ALERT: DISK SPACE on XA6510-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Alert: CPU Utilization on CAV-TPC01 is Critical	
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 96 %
+Warning Alert: Memory Utilization on GBVVSHR0 is : 94 %
+ESX ALERT: ukvsh1.wescohq.com is Down
+ESX ALERT: ukvsh2.wescohq.com is Down
+ESX ALERT: ukvsh3.wescohq.com is Down
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+ NODE ALERT: DEVJDEJAS2 has rebooted
+ESX ALERT: akko-esx01.haasgroupintl.com is Down
+Critical ALERT:  A Samba component  on AKKO-FILE01 is in a current state of: Down
+TIER 1 - CRITICAL ALERT: IL-AKK-2960X-IDF-S01.wescoaircraft.com is Down
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+TIER 1 - CRITICAL ALERT: IL-AKK-2960X-IDF-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: CA-QUE-BOM1-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: CA-QUE-BOM3-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: CA-QUE-BOM8-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-STU-VGT-891-R01.wescoaircraft.com is Down
+GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - BOM: Montreal (Plant 3) - AMER - Retorno El Marques #4F Parque Industrial El Marques Bombardier Plant
+Critical ALERT:  A Baseline Services_Windows component  on XA6539 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 94 %
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws06.tcmis.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws06.tcmis.com is Down
+ALERT: Critical disk utilization in CAV-SQLDW03
+ALERT: DISK SPACE on CAV-SQLDW01-E:\ Label:SQL_DATA 34580907 has currently 15 % is available
+ NODE ALERT: ITMSRHV1 is Down
+ NODE ALERT: ITMVSDC0 is Down
+TIER 3 - Critical Device Down: IT-ITM-3810-S01 is Down
+ NODE ALERT: ITMVSMS0 is Down
+ NODE ALERT: ITMSRHV0 is Down
+ NODE ALERT: ITMVSFP0 is Down
+ NODE ALERT: ITMVSDC1 is Down
+TIER 3 - Critical Device Down: PH-BAG-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+TIER 3 - Critical Device Down: IT-MIL-C1113-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6501-C:\ Label: 88E6AF70 has currently 19 % is available
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Alert: Memory Utilization on tcmprd-ws05.tcmis.com is warning
+Alert: CPU Utilization on ITMADC is Critical	
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+Alert: CPU Utilization on TXAU-MLEINDEV3 is Critical	
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A monitoringhost component  on AUS-BIPRD-PUB01 is in a current state of: Down
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Alert: CPU Utilization on AUS-NETMON is Critical	
+Alert: CPU Utilization on AUS-BIPRD-PUB01 is Critical	
+TIER 3 - Critical Device Down: US-ROC-891-UTAS-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 96 %
+ALERT: rtfpoc-wrk04.haasgroupintl.com is Down
+ALERT: DISK SPACE on XA6502-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical Alert: Memory Utilization on GBVVSMS4 is : 98 %
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+Warning Alert: Memory Utilization on GBVVSMS4 is : 97 %
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+ALERT: DISK SPACE on XA6508-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on APPSERVER01 is : 96 %
+Network Device Hardware Alert : Fan Sensor on UK-SPO-2626-S01 is Critical
+ALERT: DISK SPACE on AUS-ITWIKI01-C:\ Label: 4608119A has currently 15 % is available
+ALERT: DISK SPACE on XA6519-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6523-C:\ Label: 88E6AF70 has currently 18 % is available
+ALERT: DISK SPACE on XA6511-C:\ Label: 88E6AF70 has currently 19 % is available
+ALERT: DISK SPACE on XA6504-C:\ Label: 88E6AF70 has currently 19 % is available
+ALERT: DISK SPACE on XA6514-C:\ Label: 88E6AF70 has currently 20 % is available
+ NODE ALERT: GBVVSML5 is Down
+ NODE ALERT: GBVVSUST0 is Down
+ NODE ALERT: GBVC1HV0 is Down
+ NODE ALERT: GBVVSML6 is Down
+Warning Alert: Memory Utilization on GBVC0HV0 is : 97 %
+Critical ALERT:  SQL Components component  on GBVVSCM1 shows Up
+ALERT: rtfpoc-wrk04.haasgroupintl.com is Down
+Alert: CPU Utilization on AUS-BI01 is Critical	
+Critical ALERT:  SQL Components component  on GBVVSCM1 shows Down
+TIER 1 - CRITICAL ALERT: US-AUS2-2921-R01.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: WAN Interface Unreachable on US-AUS2-2921-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN Interface Unreachable on US-AUS2-2921-R01.wescoaircraft.com
+Alert: CPU Utilization on AUS-MCL01 is Critical	
+NODE Down ALERT: iDRAC-9TQS2T2 is Down
+TIER 3 - Critical Device Down: US-CHA-891-PWR-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on AUS-BI01 is Warning	
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - PWC: Chatsworth - AMER - 9001 Lurline Avenue, Chatsworth, CA 91311, USA"
+TIER 3 - Critical Device Down: US-STU-VGT-891-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6522-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVVSDS0 is : 94 %
+Alert: CPU Utilization on tcmprd-ws06.tcmis.com is Critical
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Alert: Memory Utilization on tcmprd-ws06.tcmis.com is warning
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB01 is in a current state of: Critical
+Alert: CPU Utilization in GJDEWEB01 is Critical	
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 95 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization in GJDEWEB07 is Critical	
+ALERT: DISK SPACE on DALLAS-FILE01-C:\ Label: 4608119A has currently 15 % is available
+ALERT: DISK SPACE on XA6524-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: Memory Utilization on tcmprd-haasr02.tcmis.com is warning
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+TIER 3 - Critical Device Down: UK-WOL3-891F-R01.wescoaircraft.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws07.tcmis.com is Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws07.tcmis.com is Down
+Alert: CPU Utilization on TXAU-MLEINTEST1 is Critical	
+ALERT: DISK SPACE on XA6515-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: US-EUC-C1111-R01.wescoaircraft.com is Down
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws04.tcmis.com is Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws04.tcmis.com is Down
+Critical ALERT:  A MoveIT Transfer Server component  on G-MOVEITDMZ01 is in a current state of: Down
+ NODE ALERT: VALJDELOG01 has rebooted
+TIER 3 - Critical Device Down: CN-HAN-C1111-R01.wescoaircraft.com is Down
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Warning Alert: Memory Utilization on SGSVSMS0 is : 94 %
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBVVSFM1 is in a current state of: Critical
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB01 is in a current state of: Down
+ NODE ALERT: GJDEWEB01 has rebooted
+ NODE ALERT: GJDEWEB07 has rebooted
+WPM Critical Alert : A Qlikview_Access Point - SIOP_LOB_ALL.QVW transaction state is Down
+Critical ALERT:  A JDE_Webserver_services component  on GJDEWEB07 is in a current state of: Down
+Alert: Memory Utilization on tcmprd02-haasr01.tcmis.com is warning
+NODE Down ALERT: XA6522 is Down
+NODE Down ALERT: XA6523 is Down
+NODE Down ALERT: XA6521 is Down
+NODE Down ALERT: XA6524 is Down
+NODE Down ALERT: XA6525 is Down
+NODE Down ALERT: XA6526 is Down
+NODE Down ALERT: XA6527 is Down
+NODE Down ALERT: XA6528 is Down
+NODE Down ALERT: XA6530 is Down
+NODE Down ALERT: XA6539 is Down
+NODE Down ALERT: XA6529 is Down
+NODE Down ALERT: XA6538 is Down
+NODE Down ALERT: XA65ADMIN01 is Down
+NODE Down ALERT: XA65ADMIN02 is Down
+NODE Down ALERT: XA6501 is Down
+NODE Down ALERT: XA6505 is Down
+NODE Down ALERT: XA6502 is Down
+NODE Down ALERT: XA6503 is Down
+NODE Down ALERT: XA6504 is Down
+NODE Down ALERT: XA6506 is Down
+NODE Down ALERT: XA6507 is Down
+NODE Down ALERT: XA6508 is Down
+NODE Down ALERT: XA6509 is Down
+NODE Down ALERT: XA6511 is Down
+NODE Down ALERT: XA6510 is Down
+NODE Down ALERT: XA6513 is Down
+NODE Down ALERT: XA6516 is Down
+NODE Down ALERT: XA6514 is Down
+NODE Down ALERT: XA6515 is Down
+NODE Down ALERT: XA6512 is Down
+NODE Down ALERT: XA65SPEC01 is Down
+NODE Down ALERT: XA6517 is Down
+NODE Down ALERT: XA6520 is Down
+NODE Down ALERT: XA6518 is Down
+NODE Down ALERT: XA65SPEC02 is Down
+NODE Down ALERT: XA6519 is Down
+NODE Down ALERT: XA6540 is Down
+NODE Down ALERT: XA6541 is Down
+NODE Down ALERT: XA6542 is Down
+NODE Down ALERT: XA6543 is Down
+NODE Down ALERT: XA6547 is Down
+NODE Down ALERT: XA6546 is Down
+NODE Down ALERT: XA6544 is Down
+NODE Down ALERT: XA6545 is Down
+Alert: CPU Utilization on GBDVSMS0 is Critical	
+Critical ALERT:  A citrix Xen App Provisioning Servers component  on XAPVS601 is Down
+Alert: CPU Utilization on tcmdev-ora01 is Critical
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 2 on US-WIT-2921-R02.wescoaircraft.com
+TIER 3 - Critical Device Down: IT-FRO-2960S-S01.wescoaircraft.com is Down
+Critical ALERT:  A GEAC - Print queue monitoring component  on FRTVSFM0 is in a current state of: Critical
+Critical ALERT:  A Microsoft IIS component  on GBVVSHR0 is in a current state of: Down
+Alert: CPU Utilization in XA6508 is Critical
+ALERT: Critical disk utilization in CAV-SQLDW03
+TIER 1 - CRITICAL ALERT: US-WIT-2960XR-IDF1-S01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6524-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization in XA6537 is Critical
+ALERT: DISK SPACE on CAV-SQLDW01-E:\ Label:SQL_DATA 34580907 has currently 15 % is available
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+ NODE ALERT: GBVVSML8 is Down
+Warning Alert: Memory Utilization on GBDVSMS0 is : 94 %
+Critical ALERT:  A GEAC - Print queue monitoring component  on FRTVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on FRTVSFM0 is in a current state of: Critical
+Alert: Memory Utilization on GJDEWEB01 is in warning
+TIER 3 - Critical Device Down: CA-QUE-BOM1-C1111-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Alert: CPU Utilization on GBVVSDV1 is Warning	
+TIER 3 - Critical Device Down: UK-CAM-891-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+Warning Alert: Memory Utilization on gbdvssq0 is : 95 %
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Cambridge-M?arshall - EMEA - The Airport Newmarket Road, Cambridge, Cambridges?hire CB58RX, UK"
+Alert: CPU Utilization on AUS-BI01 is Critical	
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Critical ALERT:  A GEAC - Print queue monitoring component  on FRTVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on FRTVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on CAV-TPC01 is Critical	
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+ALERT: DISK SPACE on XA6520-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Critical	
+Warning Alert: Memory Utilization on GBVVSMS4 is : 94 %
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws04.tcmis.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws04.tcmis.com is Down
+ALERT: DISK SPACE on XA6514-C:\ Label: 88E6AF70 has currently 19 % is available
+ALERT: Critical disk utilization in GBVVSCL0
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 94 %
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+Warning Alert: Memory Utilization on GBVVSSQ6 is : 95 %
+Alert: Memory Utilization on infpoc-rdeck01.haasgroupintl.com is warning
+ALERT: DISK SPACE on XA6506-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: Memory Utilization on DEVJDEJAS2 is in warning
+ALERT: DISK SPACE on XA6523-C:\ Label: 88E6AF70 has currently 17 % is available
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 94 %
+ NODE ALERT: VALJDELOG01 has rebooted
+TIER 3 - Critical Device Down: US-EUC-C1111-R01.wescoaircraft.com is Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws07.tcmis.com is Down
+ALERT: Critical disk utilization in GBVSRDP1
+TIER 3 - Critical Device Down: US-EUC-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-EUC-C1111-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6526-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: Memory Utilization on tcmprd-ws04.tcmis.com is warning
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Alert: Memory Utilization on tcmpoc-haasr01.tcmis.com is warning
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+ALERT: DISK SPACE on XA6528-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A Baseline Services_Windows component  on AUS-BI02 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+Alert: Memory Utilization on apexprd-ora01.haasgroupintl.com is warning
+Alert: CPU Utilization on IESPRODFRS is Critical	
+ NODE ALERT: VALJDELOG01 has rebooted
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Critical ALERT:  A Baseline Services_Windows component  on AUS-JUMPBOX01 is in a current state of: Down
+Critical Alert: Memory Utilization on SGSVSFS0 is : 98 %
+Alert: CPU Utilization on tcmdev-ora01 is Warning
+Warning Alert: Memory Utilization on SGSVSFS0 is : 97 %
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Warning	
+ALERT: DISK SPACE on XA6512-C:\ Label: 88E6AF70 has currently 19 % is available
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws01.tcmis.com is Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws01.tcmis.com is Down
+Critical ALERT:  A Baseline Services_Windows component  on XA6507 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on XA6544 is in a current state of: Down
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+Warning Alert: Memory Utilization on USAVSMS0 is : 94 %
+Warning Alert: Memory Utilization on SGSVSFS1 is : 97 %
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 94 %
+ALERT: DISK SPACE on NIMBUS-C:\ Label: F07BBA16 has currently 10 % is available
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Warning Alert: Memory Utilization on VALEXCHMS01 is : 94 %
+ NODE ALERT: GBVVSSQ6 is Down
+NODE ALERT: GBVCLSQ2-PRESS is Down
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+TIER 3 - Critical Device Down: US-KEN-891-HXL-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Alert: Memory Utilization on apexappdev-ora01 is warning
+Warning Alert: Memory Utilization on GBVVSMS4 is : 95 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 95 %
+TIER 1 - CRITICAL ALERT: IL-AKK-2960X-IDF-S01.wescoaircraft.com is Down
+ALERT: DISK SPACE on PLCVSMS0-C:\ Label: E24B5BD8 has currently 9 % is available
+Alert: CPU Utilization on IESPRODFRS is Critical	
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on SINGAPORE-FILE1 is in a current state of: Down
+TIER 1 - CRITICAL ALERT: US-McD-4351-R01.wescoaircraft.com is Down
+ NODE ALERT: GAAT2-DC02 is Down
+ NODE ALERT: GAAT2-PRT01 is Down
+ NODE ALERT: GAAT2-FS01 is Down
+ NODE ALERT: GAAT2-DC01 is Down
+NODE ALERT: gaat2-cluster-01.haasgroupintl.com is Down
+TIER 1 - CRITICAL ALERT: US-McD-9300-Core-S01.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 12 on US-McD-4351-R02.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 12 on US-McD-4351-R02.wescoaircraft.com
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+ESX ALERT: gaat2-esx01.haasgroupintl.com is Down
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 12 on US-McD-4351-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 12 on US-McD-4351-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: US-SAV-2921-R01.wescoaircraft.com is Down
+ESX ALERT: Savannah-ESX01.haasgroupintl.com is Down
+ NODE ALERT: GASA-SRVR01 is Down
+ NODE ALERT: Savannah-DC01 is Down
+ NODE ALERT: Savannah-AIMS is Down
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+Critical ALERT:  A Microsoft IIS component  on USAUWCSAPP01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on yokneam-wds is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on PLWRWDS1 is in a current state of: Down
+Alert: CPU Utilization on AUS-NETMON is Critical	
+Alert: CPU Utilization on PLWRDHCP1 is Critical	
+Alert: CPU Utilization on PLWRWDS1 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on AUS-BI02 is in a current state of: Down
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+Alert: Memory Utilization on rtfprd-proxy04.haasgroupintl.com is in Critical
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: SA-TAI-C1113-R01.wescoaircraft.com is Down
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Taiff - EMEA Typhoon CSF, Building 2192, King Fahad Air Base, Taiff, Saudi Arabia"
+TIER 3 - Critical Device Down: CA-QUE-BOM1-C1111-R01.wescoaircraft.com is Down
+Critical Alert: Memory Utilization on AUS-BIPRD-PUB01 is : 99 %
+GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - BOM: Saint-Laur?ent (Plant 1) - AMER - Retorno El Marques #4F Parque Industrial El Marques Bombardier
+Critical ALERT:  A Baseline Services_Windows component  on MXCH-FILE01 is in a current state of: Down
+Critical ALERT:  A monitoringhost component  on AUS-BIPRD-PUB01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-SCRIPT01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-BIPRD-FILE1 is in a current state of: Down
+Alert: CPU Utilization on AUS-SCCM01 is Critical	
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+Alert: CPU Utilization on MXCH-FILE01 is Critical	
+Alert: CPU Utilization on TXNL-KOFAX01 is Critical	
+Alert: CPU Utilization on AUSOFF-FILE01 is Critical	
+Warning Alert: Memory Utilization on VALEXCHMS01 is : 94 %
+Critical Alert: Memory Utilization on VALFILE01V is : 99 %
+Critical ALERT:  A Baseline Services_Windows component  on CAV-ADPETIME01 is in a current state of: Down
+"Critical Alert :  The SQL service ""SQL Server Agent"" on USAVSMS0 is in Down"
+Warning Alert: Memory Utilization on VALFILE01V is : 96 %
+Alert: CPU Utilization on GBVVSDV1 is Critical	
+Alert: CPU Utilization on CAV-ADPETIME01 is Critical	
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+Warning Alert: Memory Utilization on GBVVSMS4 is : 95 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: Memory Utilization on rtfprd-proxy04.haasgroupintl.com is warning
+Warning Alert: Memory Utilization on GBVVSCM1 is : 94 %
+Warning Alert: Memory Utilization on APPSERVER01 is : 94 %
+Critical ALERT:  A Microsoft IIS component  on G-ECOMWEB1 is in a current state of: Down
+Critical ALERT:  A eCommerce url component  on G-ECOMWEB1 is in a current state of: Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+Critical ALERT:  A eCommerce url component  on G-ECOMWEB1 is in a current state of: Down
+Critical ALERT:  A ecommerce component  on G-ECOMWEB1 is in a current state of: Down
+Critical ALERT:  A ecommerce component  on G-ECOMWEB1 is in a current state of: Down
+Critical ALERT:  A QVS.exe component  on AUS-BIPRD-N1 is in a current state of: Down
+Critical ALERT:  A QVS.exe component  on AUS-BIPRD-N2 is in a current state of: Down
+Critical ALERT:  GROUP ALERT: Group is Down - APPLICATION - Qlik View
+WPM Critical Alert : A Qlikview_Access Point - SCA_Procurement transaction state is Down
+WPM Critical Alert : A qlikview transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - sca_customer_alignment.qvw transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SALES_4_CORNER_DASHBOARD.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SCA_Supplier_Scorecard transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_LOB_ALL.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_Delivery_Assurance_Dashboard transaction state is Down
+WPM Critical Alert : A Qlikview _Access Point - HAAS ON TIME DELIVERY OOR OTD.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - HARDWARE OPEN ORDERS.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_FORECAST_ACCURACY.QVW transaction state is Down
+WPM Critical Alert : A Qlikview _Access Point - SIOP_Forecast_Viewer transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - sca_buy_reqs.qvw transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - INCORACHEM_ANYDOC_FILEBOUND_VOUCHERED_DASHBOARD.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_OTD_Dashboard transaction state is Down
+ALERT: DISK SPACE on TXAU-SQL19-N1-D:\ Label:Data 242E734E has currently 10 % is available
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on AUS-BI01 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on gbcr-fs02 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on GBCR-FS01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBMI1-PRT01 is in a current state of: Down
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 2 on US-IND-C1111-R01
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+TIER 3 - Critical Device Down: AU-MEL-C1111-BOE-R01.wescoaircraft.com is Down
+Critical ALERT:  A Baseline Services_Windows component  on JONESTOWN-FS01 is in a current state of: Down
+Alert: CPU Utilization on JONESTOWN-FS01 is Critical	
+Alert: CPU Utilization on AUS-BI01 is Warning	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Warning Alert: Memory Utilization on GBVVSHR0 is : 96 %
+Critical ALERT:  A Baseline Services_Windows component  on AUS-BI02 is in a current state of: Down
+Warning Alert: Memory Utilization on VALFILE01V is : 94 %
+Critical ALERT:  A Commander (label printing server) Monitoring component  on   CAV-CMDR02 is in a current state of: Down
+Critical ALERT:  A Commander (label printing server) Monitoring component  on   CAV-CMDR01 is in a current state of: Down
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Warning	
+Warning Alert: Memory Utilization on AUS-MCL01 is : 94 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Critical ALERT:  A GEAC - Print queue monitoring component  on SGSVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on SGSVSFM0 is in a current state of: Critical
+ALERT: DISK SPACE on TXAU-SQL19-N1-D:\ Label:Data 242E734E has currently 10 % is available
+ALERT: Disk utilization on tcmpoc-ansible01.haasgroupintl.com is Warning
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 96 %
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+ALERT: DISK SPACE on CAV-SQLDW03-D:\ Label:SQL_DATA 84456DCC has currently 7 % is available
+TIER 3 - Critical Device Down: US-EUC-C1111-R01.wescoaircraft.com is Down
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL2 is in a current state of: Down
+Warning Alert: Memory Utilization on CAV-SQLDW04 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL4 is in a current state of: Down
+DHCP Alerts: Service Impacted on  192.168.11.138 Location *DATA CENTER: AUSTIN
+Critical ALERT:  A Windows DHCP Server - Full/Almost_Full component  on AUS-DHCP01 is in a current state of: Down
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+Warning Alert: Memory Utilization on VALFILE01V is : 94 %
+Warning Alert: Memory Utilization on VALEXCHMS01 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL4 is in a current state of: Down
+TIER 1 - CRITICAL ALERT: US-SAV-2921-R01.wescoaircraft.com is Down
+ NODE ALERT: GASA-SRVR01 is Down
+ NODE ALERT: Savannah-AIMS is Down
+ESX ALERT: Savannah-ESX01.haasgroupintl.com is Down
+Alert: Memory Utilization on infpoc-oem02.tcmis.com is warning
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+TIER 3 - Critical Device Down: CA-QUE-BOM3-C1111-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on APPSERVER01 is : 94 %
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+Warning Alert: Memory Utilization on GBVVSCM1 is : 95 %
+Warning Alert: Memory Utilization on GBVVSMS4 is : 94 %
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Warning ALERT:  SQL Components component  on CAV-SQLDW01 shows Warning
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL4 is in a current state of: Down
+GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - BOM: Montreal (Plant 3) - AMER - Retorno El Marques #4F Parque Industrial El Marques Bombardier Plant
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL2 is in a current state of: Down
+ALERT: DISK SPACE on XA6508-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6509-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6517-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Critical ALERT:  A Samba component  on ITMAFILE is in a current state of: Down
+ALERT: DISK SPACE on XA6502-C:\ Label: 88E6AF70 has currently 20 % is available
+ NODE ALERT: ITMADC is Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL4 is in a current state of: Down
+ALERT: DISK SPACE on XA6511-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 2 - Non-Critical Device Down: IT-MAR-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+ NODE ALERT: ITMAPRINT is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IT-MAR-C1113-R01.wescoaircraft.com is Down
+Critical ALERT:  A Samba component  on ITMAFILE is in a current state of: Down
+TIER 1 - CRITICAL ALERT: CN-SHA-WH-2960X-MDF-S01.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: CN-SHA-2960X-MDF-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IT-FRO-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: CN-SUZ-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: CN-XIA-C1111-R01.wescoaircraft.com is Down
+TIER 2 - Non-Critical Device Down: CN-CHE-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: CN-HAN-C1111-R01.wescoaircraft.com is Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL2 is in a current state of: Down
+ALERT: Disk utilization on tcmtm03-ws01.haasgroupintl.com is Warning
+WPM Critical Alert : A Qlikview_Access Point - SIOP_LOB_ALL.QVW transaction state is Down
+ALERT: DISK SPACE on XA6518-C:\ Label: 88E6AF70 has currently 19 % is available
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+ALERT: DISK SPACE on XA6515-C:\ Label: 88E6AF70 has currently 17 % is available
+ALERT: DISK SPACE on XA6512-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: Memory Utilization on tcmprd03-ora01.tcmis.com is warning
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws06.tcmis.com is Down
+Critical ALERT:  A Baseline Services_Windows component  on G-SCCM01 is in a current state of: Down
+Alert: CPU Utilization on ADAVIIS01 is Warning	
+TIER 3 - Critical Device Down: US-BOS-891F-R01.wescoaircraft.com is Down
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Merck: Boston - 33 Avenue E Louis Pasteur Boston, MA 02115-5727"
+TIER 3 - Critical Device Down: US-EUC-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+ NODE ALERT: INBA-FILE1 is Down
+ESX ALERT: IDBA-ESX1.WESCOHQ.com is Down
+ NODE ALERT: INBA-SCCM is Down
+TIER 3 - Critical Device Down: MX-QUE2-891-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: MX-QUE2-891-R01.wescoaircraft.com is Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL2 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on GBVVSHR0 is in a current state of: Down
+ALERT: DISK SPACE on XA6520-C:\ Label: 88E6AF70 has currently 19 % is available
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL4 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on usauitadmust01 is in a current state of: Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws07.tcmis.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws07.tcmis.com is Down
+TIER 3 - Critical Device Down: US-THR-891-AAX-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVVSHR0 is : 96 %
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL4 is in a current state of: Down
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3  - AAX: Three Rivers - AMER - 1 Manufactur?ing Drive, Three Rivers, MI 49093, USA"
+Alert: CPU Utilization on MXCH-RODC01 is Critical	
+Critical ALERT:  A Samba component  on UKFILE01 is in a current state of: Down
+TIER 3 - Critical Device Down: CN-HAN-C1111-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on PLCVSMS0-C:\ Label: E24B5BD8 has currently 9 % is available
+ NODE ALERT: INBA-DC1 is Down
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL4 is in a current state of: Down
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Warning	
+ALERT: DISK SPACE on SIOPW10DR-C:\ Label: C05F3DBC has currently 9 % is available
+Critical ALERT:  A Baseline Services_Windows component  on XA6538 is in a current state of: Down
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+NODE Down ALERT: XA6518 is Down
+ALERT: DISK SPACE on NIMBUS-C:\ Label: F07BBA16 has currently 10 % is available
+Alert: CPU Utilization on MXCH-RODC01 is Critical	
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on tcmdev-ora01 is Critical
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Warning Alert: Memory Utilization on SGSVSMS0 is : 94 %
+Alert: Memory Utilization on tcmprd-ws03.tcmis.com is warning
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws03.tcmis.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws03.tcmis.com is Down
+Alert: Memory Utilization on tcmpoc-haasr02.tcmis.com is warning
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+Alert: CPU Utilization on AUS-SIRIUSJUMP1 is Critical	
+ NODE ALERT: GB1VSCE1 is Down
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+ALERT: DISK SPACE on XA6524-C:\ Label: 88E6AF70 has currently 18 % is available
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSCL2 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Alert: CPU Utilization on AUS-BIPRD-PUB01 is Warning	
+ NODE ALERT: GBVVSML5 is Down
+ NODE ALERT: GBVVSML6 is Down
+ NODE ALERT: GBVVSML7 is Down
+Warning Alert: Memory Utilization on CAV-SQLDW04 is : 94 %
+Alert: CPU Utilization on AUS-BI02 is Warning	
+Alert: CPU Utilization on MXCH-RODC01 is Critical	
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+Alert: CPU Utilization on gbwsrsq1 is Warning	
+Alert: CPU Utilization on MXCH-RODC01 is Critical	
+Alert: CPU Utilization on AUS-BI02 is Warning	
+ NODE ALERT: GBVC1HV0 is Down
+Alert: CPU Utilization on GBVVSML4 is Critical	
+ALERT: DISK SPACE on XA6530-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+ALERT: DISK SPACE on XA6501-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Warning	
+ALERT: DISK SPACE on XA6525-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 2 - Non-Critical Device Down: MX-MEX-891-GUL-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+ NODE ALERT: INBA-FILE1 is Down
+ NODE ALERT: INBA-SCCM is Down
+ESX ALERT: IDBA-ESX1.WESCOHQ.com is Down
+Alert: CPU Utilization on MXCH-RODC01 is Critical	
+ALERT: DISK SPACE on XA6506-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVVSML4 is : 96 %
+ALERT: DISK SPACE on XA6521-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6517-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+ALERT: DISK SPACE on XA6528-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+ALERT: DISK SPACE on XA6510-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on CODEPROXY01 is Critical	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+ALERT: DISK SPACE on XA6519-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: Memory Utilization on DEVJDEJAS2 is in warning
+TIER 3 - Critical Device Down: US-KEN-891-HXL-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+ALERT: DISK SPACE on XA6515-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: US-KEN-891-HXL-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6518-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVFSMO0 is : 95 %
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 2 on UK-MIR-4351-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 2 on UK-MIR-4351-R02.wescoaircraft.com
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws01.tcmis.com is Down
+TIER 1 - CRITICAL ALERT: UK-MIR-2960X-EDGE-S01.wescoaircraft.com is Down
+ NODE ALERT: UKHDFILE01 is Down
+ NODE ALERT: GBMI1-DHCP01 is Down
+ NODE ALERT: UKHDFTP is Down
+NODE Down ALERT: UKHDXA2 is Down
+NODE Down ALERT: UKHDXA4 is Down
+TIER 1 - CRITICAL ALERT: UK-MIR-9407-MDF-S02.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: WAN Interface Unreachable on UK-MIR-2960X-EDGE-S01.wescoaircraft.com
+ NODE ALERT: UKFILE01 is Down
+ NODE ALERT: GBMI1-SCCM is Down
+ NODE ALERT: CLKSCRIPTS.wescohq.com is Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws01.tcmis.com is Down
+Alert: Memory Utilization on tcmprd-ws06.tcmis.com is warning
+Alert: CPU Utilization on GBV-ORIONAPP01 is Warning	
+ALERT:  A ADC _sabrix _URL _monitoring component  on ws1.tcmis.com is Down
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+Critical ALERT:  A Microsoft IIS component  on USAUWCSAPP01 is in a current state of: Down
+ NODE ALERT: VALJDELOG01 has rebooted
+ NODE ALERT: DEVJDEJAS2 has rebooted
+ALERT: DISK SPACE on XA6527-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on secprd-tenable03.haasgroupintl.com is Critical
+Alert: CPU Utilization on secprd-tenable01.haasgroupintl.com is Critical
+Alert: CPU Utilization on secprd-tenable02.haasgroupintl.com is Critical
+Alert: CPU Utilization on tcmprd-haasr06.tcmis.com is Critical
+CPU Warning  ALERT: CPU load on AUS-UCS-A is currently 97 %
+CPU ALERT: CPU load on AUS-UCS-A is currently 99 %
+Alert: CPU Utilization on TXAU-AD01 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on XA65ADMIN01 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on XA6545 is in a current state of: Down
+TIER 3 - Critical Device Down: US-KEN-891-HXL-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on G-SCCM01 is Critical	
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 97 %
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSSQ9 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSUST1 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSWW4 is in a current state of: Down
+Alert: CPU Utilization on G-EXCHCAS01 is Critical	
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Critical ALERT:  A Baseline Services_Windows component  on gbwsrsq1 is in a current state of: Down
+Warning Alert: Memory Utilization on VALEXCHMS01 is : 94 %
+Critical Alert: Memory Utilization on XALIC01 is : 99 %
+TIER 1 - CRITICAL ALERT: Interface Down on US-Val1-4351-R02.wescoaircraft.com
+Alert: Memory Utilization on XALIC01 is critical
+TIER 1 - CRITICAL ALERT: Interface Down on US-Val1-4351-R01.wescoaircraft.com
+Alert: CPU Utilization on AUTX-QATeamPro2 is Critical	
+TIER 1 - CRITICAL ALERT: Interface Down on US-Val1-4351-R02.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: Interface Down on US-Val1-4351-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 2 on US-Val1-4351-R01.wescoaircraft.com
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 94 %
+TIER 1 - CRITICAL ALERT: Interface Down on US-Val1-4351-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: Interface Down on US-Val1-4351-R02.wescoaircraft.com
+Alert: Memory Utilization on XNETWEB03 is in Warning
+Warning Alert: Memory Utilization on GBVVSHR0 is : 94 %
+Warning Alert: Memory Utilization on gbdvssq0 is : 95 %
+Alert: Memory Utilization on infprd-rdeck01.haasgroupintl.com is warning
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Warning Alert: Memory Utilization on CAV-SQLDW04 is : 94 %
+DHCP Alerts: Service Impacted on  192.168.11.138 Location *DATA CENTER: AUSTIN
+Critical ALERT:  A Windows DHCP Server - Full/Almost_Full component  on AUS-DHCP01 is in a current state of: Down
+Alert: CPU Utilization on gbmi1-dc06 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on AUS-RIMINI01 is in a current state of: Down
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+ALERT: DISK SPACE on XA6520-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVVSCM1 is : 94 %
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Warning	
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+ALERT: DISK SPACE on XA6506-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A Windows DHCP Server - Full/Almost_Full component  on AUS-DHCP01 is in a current state of: Down
+Alert: Memory Utilization on tcmtm-ws01.haasgroupintl.com is in Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on tcmtm-ws01.haasgroupintl.com is Critical
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+ALERT: DISK SPACE on XA6524-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A Windows DHCP Server - Full/Almost_Full component  on AUS-DHCP01 is in a current state of: Down
+Alert: CPU Utilization on tcmprd-ws01.tcmis.com is Warning
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 94 %
+ALERT: DISK SPACE on XA6523-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6509-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on TXAU-ZERTO01 is Critical	
+ALERT: DISK SPACE on XA6512-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6518-C:\ Label: 88E6AF70 has currently 19 % is available
+Warning Alert: Memory Utilization on GBVVSCL3 is : 95 %
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+ NODE ALERT: INBA-FILE1 is Down
+ NODE ALERT: INBA-SCCM is Down
+ESX ALERT: IDBA-ESX1.WESCOHQ.com is Down
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+ALERT: DISK SPACE on GBVVSCL3-C:\ Label:OS 92247285 has currently 9 % is available
+ALERT: DISK SPACE on XA6502-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: US-NAP-C1111-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6527-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6504-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: Memory Utilization on tcmprd-ws06.tcmis.com is in Critical
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+ NODE ALERT: INBA-FILE1 is Down
+ NODE ALERT: INBA-SCCM is Down
+ESX ALERT: IDBA-ESX1.WESCOHQ.com is Down
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws06.tcmis.com is Down
+ NODE ALERT: INBA-DC1 is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on AUS-BIPRD-PUB01 is Warning	
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+Alert: Memory Utilization on tcmtm-ws01.haasgroupintl.com is in Critical
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+ALERT: Disk utilization on tcmtm03-ws01.haasgroupintl.com is Warning
+ NODE ALERT: INBA-DC1 is Down
+TIER 2 - Non-Critical Device Down: GR-BER-C1116-R01.wescoaircraft.com is Down
+Critical ALERT:  A ecommerce component  on G-ECOMWEB1 is in a current state of: Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-KEN-891-HXL-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on TXAU-ZERTO01 is Critical	
+ALERT: DISK SPACE on XA6529-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6521-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: US-KEN-891-HXL-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6528-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6503-C:\ Label: 88E6AF70 has currently 20 % is available
+ NODE ALERT: GBVVSML8 is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-KEN-891-HXL-R01.wescoaircraft.com is Down
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+Alert: CPU Utilization on USAZSCCMCAS01 is Critical	
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-SLC-891-NOC-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on ADAVIIS01 is Warning	
+TIER 2 - Non-Critical Device Down: GR-BER-C1116-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6522-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVVSHR0 is : 96 %
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Warning Alert: Memory Utilization on GBVVSMS4 is : 94 %
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+TIER 3 - Critical Device Down: US-COB-2960CX-S03.wescoaircraft.com is Down
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Warning Alert: Memory Utilization on VALEXCHMS01 is : 94 %
+ALERT: DISK SPACE on XA6509-C:\ Label: 88E6AF70 has currently 7 % is available
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+Alert: CPU Utilization on UKVSDC2 is Critical	
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws05.tcmis.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws05.tcmis.com is Down
+Alert: CPU Utilization on GBV-ORIONAPP01 is Critical	
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Warning	
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+TIER 3 - Critical Device Down: UK-CAM-891-R01.wescoaircraft.com is Down
+Critical Alert: Memory Utilization on AUS-BIPRD-PUB01 is : 98 %
+Alert: Memory Utilization on tcmtm-ws01.haasgroupintl.com is warning
+Warning Alert: Memory Utilization on GBVFSMO0 is : 95 %
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+NODE Down ALERT: infprd52-adc2 -NetScaler is Down
+Alert: CPU Utilization on AUS-BIPRD-PUB01 is Critical	
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+Alert: CPU Utilization on tcmtm-ws01.haasgroupintl.com is Warning
+Alert: Memory Utilization on apexprd-ora01.haasgroupintl.com is warning
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Alert: Memory Utilization on apexprd-wlogic01.haasgroupintl.com is warning
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 94 %
+TIER 3 - Critical Device Down: UK-CAM-891-R01.wescoaircraft.com is Down
+Critical ALERT:  A Baseline Services_Windows component  on USAVSFP0 is in a current state of: Down
+TIER 3 - Critical Device Down: US-RAH-2960L-S01.wescoaircraft.com is Down
+Alert: CPU Utilization in VALJDELOG04 is Warning	
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSHR0 is : 94 %
+Alert: CPU Utilization on G-SCCM01 is Critical	
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Warning	
+Warning Alert: Memory Utilization on gbdvssq0 is : 95 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on tcmdev-ora01 is Critical
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+TIER 1 - CRITICAL ALERT: DC03-LON-PA3220-F01 is Down
+TIER 1 - CRITICAL ALERT: PL-WRO-4351-R02.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: DC03-LON-PA3220-F02 is Down
+TIER 1 - CRITICAL ALERT: UK-CRA-4431-CUBE-R01.haasgroupintl.com is Down
+TIER 1 - CRITICAL ALERT: WAN Interface Unreachable on PL-WRO-4351-R02.wescoaircraft.com
+TIER 2 - Non-Critical Device Down: IT-MAR-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: SA-TAI-C1113-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IT-FRO-2960S-S01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+TIER 3 - Critical Device Down: IT-FRO-C1116-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IT-TES-891F-R01.wescoaircraft.com is Down
+TIER 2 - Non-Critical Device Down: GR-BER-C1116-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: IT-MAR-C1113-R01.wescoaircraft.com is Down
+ NODE ALERT: CAMI-RODC01 is Down
+ NODE ALERT: gbcr-dc01 is Down
+ NODE ALERT: ITMAPRINT is Down
+ NODE ALERT: GBDVSAS0 is Down
+ NODE ALERT: SGSSRHV0 is Down
+ NODE ALERT: GBDVSDC1 is Down
+ NODE ALERT: SGSSRHV1 is Down
+ NODE ALERT: SGSSRHR0 is Down
+ NODE ALERT: SGSVSMS0 is Down
+ NODE ALERT: SGSVSDC1 is Down
+ NODE ALERT: ITMVSDC1 is Down
+ NODE ALERT: GBLVSDC01 is Down
+ NODE ALERT: GBLVSCL01 is Down
+ NODE ALERT: SGSVSFP0 is Down
+ NODE ALERT: DC03PSQC101 is Down
+ESX ALERT: lon-esx01.haasgroupintl.com is Down
+ESX ALERT: lon-ucesx01.haasgroupintl.com is Down
+ESX ALERT: lon-esx02.haasgroupintl.com is Down
+ESX ALERT: lon-ucesx02.haasgroupintl.com is Down
+TIER 3 - Critical Device Down: IT-ITM-3810-S01 is Down
+ NODE ALERT: LON-DC01 is Down
+ NODE ALERT: LON-VEEAM-PRX02 is Down
+ NODE ALERT: ITMAFILE is Down
+ NODE ALERT: ITMADC is Down
+ NODE ALERT: GBDVSMS0 is Down
+ NODE ALERT: ITMVSMS0 is Down
+ NODE ALERT: SGSVSDC0 is Down
+ NODE ALERT: GBDVSDV0 is Down
+ NODE ALERT: GBDVSFP1 is Down
+ NODE ALERT: ITMSRHV0 is Down
+ NODE ALERT: ITMVSDC0 is Down
+ NODE ALERT: GBLVSDC02 is Down
+ NODE ALERT: DC03PAPRC01 is Down
+ NODE ALERT: GBLVSEX1 is Down
+ NODE ALERT: GBLVSMS4 is Down
+ NODE ALERT: DC03PSQC102 is Down
+ NODE ALERT: DC03PINCA03 is Down
+ NODE ALERT: DC03PINCA04 is Down
+ESX ALERT: lon-esx03.haasgroupintl.com is Down
+ESX ALERT: UKMI-ESX2 is Down
+ESX ALERT: sin-esx01.haasgroupintl.com is Down
+ESX ALERT: esxi4232.WESCOHQ.COM is Down
+NODE ALERT: LON-DXi4700 is Down
+ NODE ALERT: LON-DFS01 is Down
+ NODE ALERT: gbmi1-dc04 is Down
+ NODE ALERT: gbmi1-dc06 is Down
+ NODE ALERT: gbmi1-dc05 is Down
+ NODE ALERT: GBMI1-DC03 is Down
+ NODE ALERT: gbcr-dc02 is Down
+ NODE ALERT: GBDVSFM0 is Down
+ NODE ALERT: GBDVSDC0 is Down
+ NODE ALERT: SGSVSFS0 is Down
+ NODE ALERT: SGSVSFS1 is Down
+ NODE ALERT: ITMSRHV1 is Down
+ NODE ALERT: SGSVSFM0 is Down
+ NODE ALERT: ITMVSFP0 is Down
+ESX ALERT: ukvsh1.wescohq.com is Down
+ NODE ALERT: DC03PINCA05 is Down
+ESX ALERT: sin-esx02.haasgroupintl.com is Down
+ NODE ALERT: GBMI1-AIMS is Down
+ESX ALERT: UKMI-ESX1 is Down
+ESX ALERT: esxi4230.WESCOHQ.COM is Down
+ NODE ALERT: LON-VEEAM-PRX01 is Down
+ESX ALERT: ukvsh2.wescohq.com is Down
+ESX ALERT: ukvsh3.wescohq.com is Down
+ESX ALERT: esxi4227.WESCOHQ.COM is Down
+ESX ALERT: sin-esx04 is Down
+NODE ALERT: CKM00154803618 is Down
+Critical ALERT:  A Microsoft IIS component  on GBVVSHR0 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Warning Alert: Memory Utilization on GBVVSMS4 is : 96 %
+ALERT: DISK SPACE on XA6512-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6523-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+Warning ALERT:  SQL Components component  on gbdvssq0 shows Warning
+Network Device Hardware Alert : Fan Sensor on UK-SPO-2626-S01 is Critical
+TIER 3 - Critical Device Down: FR-TAR-TZ300-F01 is Down
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Alert: CPU Utilization on AUS-BI03 is Critical	
+Alert: CPU Utilization on StLouis-DC01 is Critical	
+ALERT: DISK SPACE on XA6511-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+TIER 3 - Critical Device Down: CN-XIA-C1111-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on tcmdev-ora01 is Warning
+ALERT: DISK SPACE on AUS-BI01-C:\ Label: 1CDB9A83 has currently 9 % is available
+NODE ALERT: secprd-tenable04.haasgroupintl.com is Down
+ALERT: DISK SPACE on XA6504-C:\ Label: 88E6AF70 has currently 20 % is available
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Xi'an - APAC - Level 2 Unit B No. 5 Lantian Road, Yanliang, Xian, China"
+NODE ALERT: GBVVSMS7 is Down
+ALERT: DISK SPACE on XA6515-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+ALERT: DISK SPACE on XA6529-C:\ Label: 88E6AF70 has currently 19 % is available
+ALERT: DISK SPACE on XA6513-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6522-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+ALERT: Disk utilization on GJDEWEB05 is Warning
+Alert: CPU Utilization on tcmprd-ws06.tcmis.com is Critical
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+ALERT: DISK SPACE on XA6502-C:\ Label: 88E6AF70 has currently 20 % is available
+TIER 3 - Critical Device Down: CA-TRE-891F-LMC-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on AUS-BI03 is Critical	
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd02-ws01.tcmis.com is Down
+ALERT: Critical disk utilization on GJDEWEB05
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 2 on US-SAC-2921-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 2 on UK-MIR-4351-R01.wescoaircraft.com
+TIER 1 - CRITICAL ALERT: WAN OUTAGE 2 on UK-MIR-4351-R02.wescoaircraft.com
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+TIER 3 - Critical Device Down: CA-QUE-BOM1-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-WIL-891-RWC-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVVSHR0 is : 94 %
+ALERT: DISK SPACE on XA6520-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-BI03 is Critical	
+Alert: CPU Utilization on TXAU-MLEINTEST1 is Critical	
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+ NODE ALERT: DEVJDEJAS2 has rebooted
+ALERT:  A ADC _sabrix _URL _monitoring component  on ws1.tcmis.com is Down
+Alert: CPU Utilization on AUS-BI03 is Critical	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Warning Alert: Memory Utilization on VALEXCHMS01 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on XA6543 is in a current state of: Down
+ NODE ALERT: CAVA2JDEWEB01 has rebooted
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Warning Alert: Memory Utilization on VALEXCHMS01 is : 94 %
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Critical ALERT:  A GEAC - Print queue monitoring component  on FRTVSFM0 is in a current state of: Critical
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 96 %
+Alert: CPU Utilization on AUS-BI03 is Critical	
+Alert: CPU Utilization on G-SQLDEV2 is Critical	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+TIER 3 - Critical Device Down: US-CHA-891-PWR-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on G-SQLDEV2 is Critical	
+TIER 3 - Critical Device Down: US-CHA-891-PWR-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: PL-WRO1-HP2620-S02 is Down
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+TIER 3 - Critical Device Down: US-CHA-891-PWR-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on G-SQLDEV2 is Critical	
+Warning Alert: Memory Utilization on GBVVSDS0 is : 94 %
+Alert: CPU Utilization on AUS-BIPRD-PUB01 is Warning	
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Warning	
+TIER 3 - Critical Device Down: CN-XIA-C1111-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on GBVVSMS4 is : 95 %
+ALERT: DISK SPACE on XA6524-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-BI03 is Critical	
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Xi'an - APAC - Level 2 Unit B No. 5 Lantian Road, Yanliang, Xian, China"
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Warning Alert: Memory Utilization on GBVVSCL3 is : 95 %
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Warning Alert: Memory Utilization on GBVVSHR0 is : 94 %
+ALERT: DISK SPACE on XA6513-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on G-SQLDEV2 is Critical	
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+ALERT: DISK SPACE on XA6520-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+ALERT: DISK SPACE on XA6528-C:\ Label: 88E6AF70 has currently 19 % is available
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+Critical ALERT:  A monitoringhost component  on AUS-BIPRD-PUB01 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on G-MOVEITT1 is in a current state of: Down
+Alert: CPU Utilization on tcmtm02-ws01.haasgroupintl.com is Critical
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+ALERT: DISK SPACE on XA6525-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on GBVVSCM1 is : 94 %
+Alert: CPU Utilization on G-SQLDEV2 is Critical	
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+ALERT: DISK SPACE on XA6511-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+ALERT: DISK SPACE on XA6503-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6518-C:\ Label: 88E6AF70 has currently 20 % is available
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 94 %
+ALERT: DISK SPACE on XA6523-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-BI03 is Critical	
+TIER 3 - Critical Device Down: IN-BAN-2921-R01.wescoaircraft.com is Down
+ NODE ALERT: INBA-FILE1 is Down
+ NODE ALERT: INBA-SCCM is Down
+ESX ALERT: IDBA-ESX1.WESCOHQ.com is Down
+TIER 3 - Critical Device Down: IN-BAN-2960S-S01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6519-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSDV0 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSDV5 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSMS8 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSVM0 is in a current state of: Down
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Critical ALERT:  A Windows Server 2019 Services and Counters component  on TXAU-SQL19-N1 is in a current state of: Critical
+ NODE ALERT: txau-crucible01 is Down
+Alert: CPU Utilization on AUS-SECURITY01 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on val-veeam-prx01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSDV4 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSDS0 is : 94 %
+ NODE ALERT: CAV-ACL01 is Down
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Alert: CPU Utilization on G-EXCHCAS01 is Critical	
+ALERT: DISK SPACE on XA6528-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: Critical disk utilization in GBVVSML7
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+ NODE ALERT: GBDVSMS0 is Down
+ NODE ALERT: ITMVSMS0 is Down
+ NODE ALERT: FRTVSMS0 is Down
+ NODE ALERT: PLCVSMS0 is Down
+ NODE ALERT: PLSVSMS0 is Down
+ NODE ALERT: USIVSMS1 is Down
+ NODE ALERT: GBSVSMS0 is Down
+ NODE ALERT: USOVSMS0 is Down
+ NODE ALERT: SGSVSMS0 is Down
+ NODE ALERT: USMVSMS0 is Down
+ NODE ALERT: USAVSMS0 is Down
+ NODE ALERT: GBVVSCM1 is Down
+TIER 3 - Critical Device Down: CA-LAC-C1111-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 96 %
+Alert: Memory Utilization on tcmprd-ws03.tcmis.com is warning
+Alert: CPU Utilization on gbmi1-dc05 is Critical	
+Critical ALERT:  SQL Components component  on GBVVSCM1 shows Down
+Critical ALERT:  SQL Components component  on GBVVSCM1 shows Down
+Critical ALERT:  SQL Components component  on GBVVSCM1 shows Down
+Critical ALERT:  SQL Components component  on GBVVSCM1 shows Down
+Warning Alert: Memory Utilization on GBVVSHR0 is : 94 %
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws03.tcmis.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws03.tcmis.com is Down
+ALERT: DISK SPACE on XA6519-C:\ Label: 88E6AF70 has currently 9 % is available
+ALERT:  A ADC _sabrix _URL _monitoring component  on ws1.tcmis.com is Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-BI02 is in a current state of: Down
+Alert: CPU Utilization on G-VALDC03 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-ADDEV01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-MLEINDEV1 is in a current state of: Down
+Warning Alert: Memory Utilization on GBVVSCL3 is : 95 %
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+Critical ALERT:  A Baseline Services_Windows component  on GOTBIZCONNECTDV is in a current state of: Down
+TIER 3 - Critical Device Down: CA-LAC-C1111-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on TXAU-FBDEV01 is Critical	
+Alert: CPU Utilization on TXAU-ADDEV01 is Warning	
+Alert: CPU Utilization on CAV-MITAuto01 is Critical	
+Alert: CPU Utilization on TXAU-DSXDEV01 is Critical	
+Alert: CPU Utilization on TXAU-FBDEV02 is Critical	
+ NODE ALERT: VALJDELOG01 has rebooted
+Alert: CPU Utilization on TXAU-ADDEV01 is Critical	
+TIER 3 - Critical Device Down: CN-HAN-C1111-R01.wescoaircraft.com is Down
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Warning Alert: Memory Utilization on GBVFSMO0 is : 95 %
+Critical ALERT:  A Baseline Services_Windows component  on AUS-ITWIKI01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-DEVWIKI03 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on G-HRMSWEB01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on LON-DFS01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-FB03 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSMS5 is in a current state of: Down
+Alert: CPU Utilization on gbmi1-dc05 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on AUS-GHS01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on CAV-QLIKVIEW01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on CAV-VMSITEREC01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-ORIONHA01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on PLWRENV1 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-FB01 is in a current state of: Down
+Critical ALERT:  A Exchange service Monitor component  on G-EXCHCAS01 is in a current state of: Down
+Critical ALERT:  A Microsoft Exchange component  on G-EXCHCAS01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-SQL19-N1 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-ORIONDPA01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on USAUWCSAPP01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on G-JDERPT02 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSRD7 is in a current state of: Down
+DHCP Alerts: Service Impacted on  192.168.11.138 Location *DATA CENTER: AUSTIN
+Critical ALERT:  A Windows DHCP Server - Full/Almost_Full component  on AUS-DHCP01 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on G-EXCHCAS01 is in a current state of: Down
+Alert: CPU Utilization on tcmtm05-sso01.haasgroupintl.com is Critical
+ NODE ALERT: G-SCCM01 is Down
+Critical ALERT:  A Exchange service Monitor component  on G-EXCHCAS01 is in a current state of: Down
+Warning ALERT:  SQL Components component  on TXAU-SQL1901 shows Warning
+Critical ALERT:  A monitoringhost component  on AUS-BIPRD-PUB01 is in a current state of: Down
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Warning	
+Alert: CPU Utilization on AUS-ORIONDPA01 is Critical	
+Alert: CPU Utilization on TXAU-FB01 is Critical	
+Alert: CPU Utilization on G-DHCP01 is Warning	
+Alert: CPU Utilization on GBVVSNM3 is Critical	
+Critical ALERT:  A Windows Server 2019 Services and Counters component  on TXAU-SQL19-N1 is in a current state of: Up
+Alert: CPU Utilization on AUS-ITWIKI01 is Critical	
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Critical ALERT:  SQL Components component  on GBVVSMS5 shows Down
+Critical ALERT:  A Baseline Services_Windows component  on G-TRAXDEV01 is in a current state of: Down
+Alert: CPU Utilization on AUS-DAMEWARECS is Critical	
+Alert: CPU Utilization on PAJO-WMS-PRT01 is Critical	
+Alert: CPU Utilization on AUS-BACKUP01 is Critical	
+Alert: CPU Utilization on AUS-SIRIUSJUMP1 is Critical	
+Alert: CPU Utilization on G-DHCP01 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSSC1 is in a current state of: Down
+Critical ALERT:  A Distributed File System (DFS) component  on AUS-DFS01 is in a current state of: Down
+Alert: CPU Utilization on USAUWCSAPP01 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on SGSVSFS1 is in a current state of: Down
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSML7 is in a current state of: Down
+Alert: CPU Utilization on G-SQLDEV2 is Critical	
+"Critical Alert :  The SQL service ""Buffer Cache Hit Ratio"" on CAV-SQLDW01 is in Critical"
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+Critical ALERT:  A Windows Server 2019 Services and Counters component  on TXAU-MLEINPROD1 is in a current state of: Critical
+TIER 3 - Critical Device Down: CA-QUE-BOM1-C1111-R01.wescoaircraft.com is Down
+Warning Alert: Memory Utilization on SGSVSFS1 is : 95 %
+NODE Down ALERT: XA6502 is Down
+Warning Alert: Memory Utilization on USAVSWW0 is : 94 %
+GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - BOM: Saint-Laur?ent (Plant 1) - AMER - Retorno El Marques #4F Parque Industrial El Marques Bombardier
+Critical ALERT:  A Baseline Services_Windows component  on G-FEDEXPROD01 is in a current state of: Down
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+Alert: CPU Utilization on TXAU-SQL17-N2 is Critical	
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on AUS-BI03 is in a current state of: Down
+TIER 3 - Critical Device Down: UK-CON-C1113-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: UK-MAR-892-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on IESPRODFRS is Critical	
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+TIER 3 - Critical Device Down: CN-XIA-C1111-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on G-CRM02 is Critical	
+Warning Alert: Memory Utilization on GBVVSMS4 is : 96 %
+Warning Alert: Memory Utilization on USAVSFP0 is : 95 %
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Xi'an - APAC - Level 2 Unit B No. 5 Lantian Road, Yanliang, Xian, China"
+Critical Alert: Memory Utilization on GBISRFC1 is : 99 %
+Critical ALERT:  A Windows Server 2019 Services and Counters component  on TXAU-SQL19-N1 is in a current state of: Critical
+Alert: CPU Utilization on USVVSDC0 is Critical	
+ NODE ALERT: txau-crucible01 is Down
+Warning Alert: Memory Utilization on GBISRFC1 is : 94 %
+Alert: CPU Utilization on G-VALDC03 is Critical
+Alert Storage -Hardware component is in critical state - integration
+Alert Storage -Hardware component is in critical state - integration
+Alert Storage -Hardware component is in critical state - integration
+Alert Storage -Hardware component is in critical state - integration
+Warning Alert: Memory Utilization on GBVVSCL3 is : 95 %
+Critical ALERT:  A Microsoft IIS component  on ADAVIIS01 is in a current state of: Down
+Alert: CPU Utilization on IESPRODFRS is Warning	
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Critical Alert: Memory Utilization on GBVVSMS4 is : 98 %
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+Warning Alert: Memory Utilization on gbdvssq0 is : 96 %
+Critical ALERT:  A Windows Server 2019 Services and Counters component  on TXAU-SQL19-N1 is in a current state of: Critical
+ALERT: Critical disk utilization in GBVVSML5
+Warning Alert: Memory Utilization on USOVSFP1 is : 95 %
+ALERT: Critical disk utilization in GBVVSML6
+Warning Alert: Memory Utilization on GBVVSMS4 is : 94 %
+ALERT: DISK SPACE on GBVVSML6-C:\ Label: 26AAB525 has currently 9 % is available
+TIER 3 - Critical Device Down: US-AMA-891-BEL2-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on GBVVSRD5-C:\ Label:OS 02A7D15B has currently 8 % is available
+ALERT: Critical disk utilization in GBVVSML0
+ALERT: Critical disk utilization in GBVVSML4
+ALERT: DISK SPACE on GBVVSML0-C:\ Label: 26AAB525 has currently 8 % is available
+ALERT: DISK SPACE on GBVVSML1-C:\ Label: A048ABB1 has currently 9 % is available
+ALERT: Critical disk utilization in GBVVSML4
+ALERT: DISK SPACE on GBVVSML4-C:\ Label: 26AAB525 has currently 8 % is available
+Alert: CPU Utilization on USVVSDC0 is Critical	
+TIER 3 - Critical Device Down: US-NAP-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: US-NAP-C1111-R01.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: US-STL-2901-R01.wescoaircraft.com is Down
+ESX ALERT: stlouis-esx01.haasgroupintl.com is Down
+ NODE ALERT: StLouis-DC01 is Down
+Critical ALERT:  A Microsoft IIS component  on USAUWCSAPP01 is in a current state of: Down
+Critical Alert: Memory Utilization on GBISRFC1 is : 98 %
+Alert: CPU Utilization on GBLVSEX1 is Critical	
+Warning Alert: Memory Utilization on GBVVSHR0 is : 94 %
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Critical ALERT:  A Baseline Services_Windows component  on G-SCOM02 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-FB04 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-DMZRODC02 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on FS2 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSDE0 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSRD6 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSSC0 is in a current state of: Down
+Critical ALERT:  A Microsoft Exchange component  on TXAU-MAIL01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-CLIMATECSQL is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-ORIONAPP02 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on usausapcpi02 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on TXAU-FB04 is in a current state of: Down
+Alert: CPU Utilization on TXAU-MAIL01 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on VALSIGVM02 is in a current state of: Down
+Alert: CPU Utilization on TXAU-FB02 is Critical	
+Alert: CPU Utilization on TXAU-FB04 is Critical	
+Alert: CPU Utilization on usausapcpi02 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSML0 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSML2 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSML3 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSML8 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSML4 is in a current state of: Down
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on XA6538 is in a current state of: Down
+ALERT:  A Baseline _Linux component  on tcmqa02-ws21.tcmis.com is  Down
+ALERT:  A Baseline _Linux component  on tcmqa-memc02.tcmis.com is  Down
+ALERT:  A Baseline _Linux component  on tcmqa-memc01.tcmis.com is  Down
+ALERT:  A Baseline _Linux component  on tcmdemo-memc01.tcmis.com is  Down
+ALERT:  A Baseline _Linux component  on tcmstg-memc02.tcmis.com is  Down
+ALERT:  A Baseline _Linux component  on tcmstg-memc01.tcmis.com is  Down
+ALERT:  A Baseline _Linux component  on tcmdemo-memc02.tcmis.com is  Down
+ALERT:  A Baseline _Linux component  on tcmtest-memc02.tcmis.com is  Down
+ALERT:  A Baseline _Linux component  on tcmdev-memc01.tcmis.com is  Down
+Alert: CPU Utilization on tcmqa02-ws01.tcmis.com is Critical
+Warning Alert: Memory Utilization on VALFILE01V is : 97 %
+Alert: Memory Utilization on tcmdev03-ws01.haasgroupintl.com is in Critical
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+ALERT: Critical disk utilization in GBVVSML1
+Critical ALERT:  A Baseline Services_Windows component  on pajow-dfs01 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Warning Alert: Memory Utilization on gbdvssq0 is : 96 %
+Network Device _Memory utilization_Critical
+Critical ALERT:  A Baseline Services_Windows component  on TXNL-PRNT01 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on G-TRAXPRODAPP2 is in a current state of: Down
+Critical ALERT:  A Baseline Services_Windows component  on AUS-BIPRD-PUB02 is in a current state of: Down
+Critical ALERT:  A Microsoft IIS component  on G-ECOMWEB1 is in a current state of: Down
+Critical ALERT:  GROUP ALERT: Group is Down - APPLICATION - Qlik View
+Critical ALERT:  A QVS.exe component  on AUS-BIPRD-N1 is in a current state of: Down
+Critical ALERT:  A QVS.exe component  on AUS-BIPRD-N2 is in a current state of: Down
+Critical ALERT:  A eCommerce url component  on G-ECOMWEB1 is in a current state of: Down
+WPM Critical Alert : A Qlikview_Access Point - SALES_4_CORNER_DASHBOARD.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_FORECAST_ACCURACY.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - sca_customer_alignment.qvw transaction state is Down
+Critical ALERT:  A ecommerce component  on G-ECOMWEB1 is in a current state of: Down
+Critical ALERT:  A eCommerce url component  on G-ECOMWEB1 is in a current state of: Down
+WPM Critical Alert : A qlikview transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SCA_Supplier_Scorecard transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_Delivery_Assurance_Dashboard transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_LOB_ALL.QVW transaction state is Down
+WPM Critical Alert : A Qlikview _Access Point - HAAS ON TIME DELIVERY OOR OTD.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - HARDWARE OPEN ORDERS.QVW transaction state is Down
+Critical ALERT:  A ecommerce component  on G-ECOMWEB1 is in a current state of: Down
+WPM Critical Alert : A Qlikview_Access Point - SIOP_OTD_Dashboard transaction state is Down
+WPM Critical Alert : A Qlikview _Access Point - SIOP_Forecast_Viewer transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - INCORACHEM_ANYDOC_FILEBOUND_VOUCHERED_DASHBOARD.QVW transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - sca_buy_reqs.qvw transaction state is Down
+WPM Critical Alert : A Qlikview_Access Point - SCA_Procurement transaction state is Down
+Alert: CPU Utilization on AUS-BI01 is Critical	
+Warning Alert: Memory Utilization on GBVVSCL3 is : 95 %
+Critical Alert: Memory Utilization on VALFILE01V is : 99 %
+Warning Alert: Memory Utilization on VALFILE01V is : 97 %
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on IESPRODFRS is Critical	
+ALERT: DISK SPACE on GBVVSML5-C:\ Label: 26AAB525 has currently 9 % is available
+Warning Alert: Memory Utilization on USAZSCCMCAS01 is : 95 %
+Warning Alert: Memory Utilization on GBISRFC1 is : 94 %
+Critical ALERT:  A Commander (label printing server) Monitoring component  on   CAV-CMDR01 is in a current state of: Down
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+ NODE ALERT: DEVJDEJAS2 has rebooted
+ NODE ALERT: INBA-DC1 is Down
+Alert: Memory Utilization on GJDEWEB01 is in warning
+TIER 1 - CRITICAL ALERT: CN-SHA-4351-R01.wescoaircraft.com is Down
+TIER 1 - CRITICAL ALERT: CN-SHAWH-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: CN-SUZ-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: CN-XIA-C1111-R01.wescoaircraft.com is Down
+TIER 2 - Non-Critical Device Down: CN-CHE-C1111-R01.wescoaircraft.com is Down
+TIER 3 - Critical Device Down: CN-HAN-C1111-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Suzhou - Suzhou, China"
+Alert: CPU Utilization on UKVSDC2 is Critical	
+ NODE ALERT: ITMVSMS0 is Down
+ NODE ALERT: ITMSRHV1 is Down
+ NODE ALERT: ITMVSDC0 is Down
+ NODE ALERT: ITMSRHV0 is Down
+ NODE ALERT: ITMVSFP0 is Down
+ NODE ALERT: ITMVSDC1 is Down
+TIER 3 - Critical Device Down: IT-ITM-3810-S01 is Down
+Alert: CPU Utilization on Savannah-AIMS is Warning	
+TIER 3 - Critical Device Down: IT-MIL-C1113-R01.wescoaircraft.com is Down
+NODE Down ALERT: XA6507 is Down
+Alert: CPU Utilization on UKVSDC2 is Critical	
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+ALERT: DISK SPACE on TXAU-SQL19-N1-E:\ Label:Logs AC386A65 has currently 8 % is available
+Alert: Memory Utilization on tcmtm02-ws01.haasgroupintl.com is in Critical
+ALERT: DISK SPACE on XA6509-C:\ Label: 88E6AF70 has currently 19 % is available
+ALERT: DISK SPACE on XA6512-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Warning	
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+"Group Alert: Network Team Tickets: WAP - APAC - BCEZ Loakan Road, Baguio City 26000, Philippine?s Warning"
+Alert: CPU Utilization on aus-esx17.haasgroupintl.com is Critical	
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+"Network Team Tickets: WAP - APAC - BCEZ Loakan Road, Baguio City 26000, Philippine?s"
+ALERT: DISK SPACE on XA6519-C:\ Label: 88E6AF70 has currently 20 % is available
+Critical ALERT:  A Microsoft IIS component  on AUS-GHS01 is in a current state of: Down
+Alert: CPU Utilization on UKVSDC2 is Critical	
+Warning Alert: Memory Utilization on CAV-SQLDW04 is : 94 %
+ALERT: DISK SPACE on XA6510-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-BI02 is Critical	
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+Warning Alert: Memory Utilization on GBVVSCL3 is : 94 %
+TIER 3 - Critical Device Down: CN-XIA-C1111-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Xi'an - APAC - Level 2 Unit B No. 5 Lantian Road, Yanliang, Xian, China"
+Warning Alert: Memory Utilization on GBVVSDS0 is : 94 %
+Warning Alert: Memory Utilization on gbdvssq0 is : 95 %
+Warning Alert: Memory Utilization on VALFILE01V is : 97 %
+Alert: CPU Utilization on TXAU-SQL17-N2 is Critical	
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+Warning Alert: Memory Utilization on GBVVSHR0 is : 95 %
+Alert: CPU Utilization on UKVSDC2 is Critical	
+ALERT:  A M5 Monitoring Tomcat component  on tcmprd-ws07.tcmis.com is Down
+Critical ALERT:  A TCMIS services 2.0 component  on tcmprd-ws07.tcmis.com is Down
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBSVSFM0 is in a current state of: Critical
+ALERT: DISK SPACE on XA6502-C:\ Label: 88E6AF70 has currently 19 % is available
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+ALERT: DISK SPACE on XA6520-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6525-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6507-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on UKVSDC2 is Critical	
+ALERT: DISK SPACE on XA6508-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6506-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on XA6529-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: Memory Utilization on infpoc-oem02.tcmis.com is warning
+ALERT: Disk utilization on tcmtm03-ws01.haasgroupintl.com is Warning
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Alert: CPU Utilization on G-OPTIOPD is Critical	
+Warning Alert: Memory Utilization on GBVFSMO0 is : 94 %
+Critical ALERT:  A Baseline Services_Windows component  on TXAU-ZERTO01 is in a current state of: Down
+Alert: Memory Utilization on XNETWEB03 is in Warning
+Alert: CPU Utilization on VAL-ZERTO01.wescohq.com is Critical	
+Alert: CPU Utilization on TXAU-ZERTO01 is Critical	
+Critical ALERT:  A Baseline Services_Windows component  on GOTBIZLINKDV is in a current state of: Down
+Warning Alert: Memory Utilization on gbdvssq0 is : 94 %
+Alert: CPU Utilization on G-OPTIOPD is Warning	
+ NODE ALERT: CAVA2JDEWEB01 has rebooted
+ NODE ALERT: DEVJDEJAS2 has rebooted
+Alert: Memory Utilization on tcmprd-ws01.tcmis.com is warning
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Alert: CPU Utilization on GBVVSCL1 is Warning	
+ALERT: DISK SPACE on XA6515-C:\ Label: 88E6AF70 has currently 20 % is available
+ALERT: DISK SPACE on GBVVSML5-C:\ Label: 26AAB525 has currently 9 % is available
+NODE ALERT: MSA2324fc is Down
+Critical ALERT:  A Baseline Services_Windows component  on GBVVSRD2 is in a current state of: Down
+Alert: Memory Utilization on tcmpoc-haasr01.tcmis.com is warning
+Critical ALERT:  A Baseline Services_Windows component  on AUS-BI02 is in a current state of: Down
+ NODE ALERT: ITEST2.WESCOHQ.COM is Down
+ NODE ALERT: VALJDELOG01 has rebooted
+Warning Alert: Memory Utilization on GBVVSSQ10 is : 95 %
+ NODE ALERT: DEVJDEJAS2 has rebooted
+ALERT:  A JDE_Webserver_services component  on DEVJDEJAS2 is in a current state of: Down
+Alert: CPU Utilization on GBV-ORIONAPP01 is Critical	
+ NODE ALERT: CAVA2JDEWEB01 has rebooted
+ALERT: DISK SPACE on XA6523-C:\ Label: 88E6AF70 has currently 19 % is available
+Critical Alert: Memory Utilization on AUS-BIPRD-PUB01 is : 99 %
+Alert: CPU Utilization on AUS-BIPRD-PUB02 is Critical	
+ALERT: DISK SPACE on XA6501-C:\ Label: 88E6AF70 has currently 18 % is available
+Alert: CPU Utilization on tcmdev-ora01 is Critical
+TIER 3 - Critical Device Down: UK-RED-TZ300-F01 is Down
+Critical ALERT:  A GEAC - Print queue monitoring component  on GBDVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on wdiprd-cml01.haasgroupintl.com is Critical
+ NODE ALERT: GBVVSNM3 is Down
+ NODE ALERT: GBVVSSQ10 is Down
+Warning Alert: Memory Utilization on GBVFSMO0 is : 95 %
+ESX ALERT: decatur-esx01.haasgroupintl.com is Down
+ NODE ALERT: DECATUR-DC01 is Down
+Alert: CPU Utilization on GBVVSDV0 is Critical	
+Warning Alert: Memory Utilization on AUS-BIPRD-PUB01 is : 96 %
+Alert: CPU Utilization on AUS-MCL01 is Warning	
+Alert: CPU Utilization on GBV-ORIONAPP01 is Warning	
+Warning Alert: Memory Utilization on GBVVSCL3 is : 95 %
+Warning Alert: Memory Utilization on CAV-SQLDW04 is : 94 %
+Critical Alert: Memory Utilization on GBVVSMS4 is : 99 %
+Warning Alert: Memory Utilization on gbdvssq0 is : 96 %
+Warning Alert: Memory Utilization on GBVVSMS4 is : 94 %
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+Alert: CPU Utilization on GBDVSMS0 is Critical	
+TIER 3 - Critical Device Down: CN-XIA-C1111-R01.wescoaircraft.com is Down
+ALERT: DISK SPACE on XA6528-C:\ Label: 88E6AF70 has currently 20 % is available
+Alert: CPU Utilization on AUS-BIPRD-PUB01 is Critical	
+"GROUP ALERT: Group is Down - Network Team Tickets: Tier3 - Xi'an - APAC - Level 2 Unit B No. 5 Lantian Road, Yanliang, Xian, China"
+Critical ALERT:  A GEAC - Print queue monitoring component  on USAVSFM0 is in a current state of: Critical
+TIER 3 - Critical Device Down: US-WIT-891-CESPA-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on aus-esx13.haasgroupintl.com is Critical	
+TIER 3 - Critical Device Down: UK-CAM-891-R01.wescoaircraft.com is Down
+Alert: CPU Utilization on CAV-QLIKVIEW01 is Critical	
+ALERT: DISK SPACE on XA6516-C:\ Label: 88E6AF70 has currently 19 % is available
